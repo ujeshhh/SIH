@@ -1,0 +1,1001 @@
+soil_health,weather_pattern,crop_type,fertilizer_type,fertilizer_amount,yield,recommended_fertilizer,accurate_fertilizer_type,low_cost_brand
+4.37086107,2.66619636,Cotton,Diammonium Phosphate,167.3213068,2959.481907,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.556428758,5.877108526,Maize,Urea,160.7648406,3522.869778,Urea,Urea,Brand B
+7.587945476,8.856512523,Cotton,Potassium Chloride,173.5369177,3958.731591,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.387926358,7.590023978,Rice,Potassium Chloride,265.2613249,3449.103063,Urea,Ammonium Sulfate,Brand C
+2.404167764,8.259050331,Rice,Diammonium Phosphate,165.2917253,1066.703254,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.403950683,6.9290503,Wheat,Diammonium Phosphate,284.982948,1779.093991,Urea,,
+1.52275251,7.230489081,Soybean,Urea,176.0009409,4241.872869,Diammonium Phosphate,,
+8.795585312,8.642760864,Cotton,Potassium Chloride,287.3001733,2090.602589,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.410035106,3.24701208,Wheat,Urea,258.2079755,3926.248478,Urea,,
+7.3726532,5.404824673,Soybean,Urea,140.6078307,2488.480861,Urea,,
+1.185260449,2.990884976,Cotton,Diammonium Phosphate,265.9103553,3087.537313,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.729188669,9.889012072,Maize,Potassium Chloride,77.51582105,1271.893199,Urea,Urea,Brand B
+8.491983767,9.496534057,Cotton,Potassium Chloride,281.2617938,1724.902244,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.911051996,1.354841302,Rice,Potassium Chloride,207.9108788,4828.787854,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.636424705,7.350176553,Rice,Diammonium Phosphate,63.59768713,4560.552214,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.650640589,9.327234857,Maize,Diammonium Phosphate,211.0641809,3609.100444,Urea,Urea,Brand B
+3.738180187,2.625178106,Wheat,Diammonium Phosphate,293.5619135,2838.57839,Urea,,
+5.722807885,6.111507075,Soybean,Diammonium Phosphate,67.45016365,3703.045172,Urea,,
+4.887505168,9.239394678,Cotton,Diammonium Phosphate,188.6719274,3474.441156,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.621062262,1.305513807,Rice,Potassium Chloride,236.9485874,3274.209022,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.506676053,7.276782405,Wheat,Urea,252.5646467,1236.708287,Urea,,
+2.255444746,3.676141066,Maize,Potassium Chloride,153.4568663,3531.210443,Urea,Urea,Brand B
+3.629301837,9.319565758,Rice,Urea,101.0416398,4075.680178,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.29725659,9.739524206,Maize,Diammonium Phosphate,60.58556969,4976.326619,Urea,Urea,Brand B
+5.104629858,9.498398402,Cotton,Urea,194.9315393,1044.31421,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.066583653,5.26792795,Soybean,Potassium Chloride,163.2277676,3920.693813,Urea,,
+2.797064039,8.758383859,Rice,Potassium Chloride,287.1860988,3287.157264,Diammonium Phosphate,Ammonium Sulfate,Brand C
+5.628109946,8.600944587,Rice,Urea,65.15122693,2736.208704,Urea,Ammonium Sulfate,Brand C
+6.33173112,3.871904259,Cotton,Diammonium Phosphate,221.3488359,1510.280698,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.418053714,8.460239267,Wheat,Diammonium Phosphate,56.24155553,2636.340595,Urea,,
+6.467903667,1.333068712,Soybean,Potassium Chloride,92.85854418,2417.508732,Urea,,
+2.534717113,6.366428906,Rice,Urea,163.39475,2211.319556,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.585464337,3.070079536,Soybean,Diammonium Phosphate,163.7181107,3923.518493,Diammonium Phosphate,,
+9.539969835,2.085101972,Rice,Diammonium Phosphate,221.4251357,3802.902085,Urea,Ammonium Sulfate,Brand C
+9.690688298,1.692578815,Soybean,Potassium Chloride,277.5532587,3356.080364,Urea,,
+8.275576133,7.266598983,Maize,Diammonium Phosphate,209.7580397,4754.659253,Urea,Urea,Brand B
+3.741523923,4.058874674,Rice,Urea,288.3837745,2399.417537,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.879049026,7.522900944,Soybean,Potassium Chloride,270.40391,1975.207751,Diammonium Phosphate,,
+7.158097239,1.588207067,Wheat,Potassium Chloride,196.1249489,3623.613252,Urea,,
+4.961372444,3.83761304,Maize,Urea,258.4479877,1795.256244,Urea,Urea,Brand B
+2.098344114,5.855421631,Maize,Potassium Chloride,210.6444026,2260.042029,Urea,Urea,Brand B
+5.456592191,8.116508484,Wheat,Diammonium Phosphate,69.63945773,1898.40976,Urea,,
+1.30949669,3.868772526,Soybean,Diammonium Phosphate,235.1411808,1276.614271,Diammonium Phosphate,,
+9.183883619,6.633022388,Cotton,Urea,73.72711032,4309.994967,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.329019834,8.973799734,Wheat,Diammonium Phosphate,198.5206951,2018.162172,Urea,,
+6.962700559,6.542768694,Soybean,Urea,225.6600515,2892.110013,Urea,,
+3.805399685,3.096635273,Wheat,Urea,66.63190205,1173.261093,Urea,,
+5.680612191,1.219607034,Wheat,Diammonium Phosphate,107.6986635,3797.357865,Urea,,
+5.920392514,8.830889865,Rice,Urea,278.9180581,2322.244009,Urea,Ammonium Sulfate,Brand C
+2.6636901,1.191424698,Soybean,Diammonium Phosphate,204.0786231,3978.946911,Diammonium Phosphate,,
+9.72626165,8.872315054,Cotton,Potassium Chloride,111.5715047,2649.612242,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.97619541,5.760434206,Rice,Potassium Chloride,222.6699428,1783.022426,Urea,Ammonium Sulfate,Brand C
+9.455490474,9.451609287,Wheat,Urea,199.194105,3052.700329,Urea,,
+9.053446154,8.189049122,Wheat,Diammonium Phosphate,175.393925,1522.018239,Urea,,
+6.381099809,9.981406995,Wheat,Diammonium Phosphate,294.0467437,2762.156639,Urea,,
+9.296868115,4.156406339,Soybean,Potassium Chloride,220.8634444,2269.22191,Urea,,
+1.796432518,7.9046946,Soybean,Potassium Chloride,143.8602774,4647.838337,Diammonium Phosphate,,
+2.763845762,4.617378222,Rice,Diammonium Phosphate,250.018358,1243.714887,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.4070456,5.318880583,Cotton,Urea,271.1458232,3776.069656,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.927972977,6.647549169,Rice,Potassium Chloride,81.30513988,1731.004664,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.498095607,8.863094028,Maize,Urea,100.1382445,2276.180297,Urea,Urea,Brand B
+3.442141286,9.856751223,Wheat,Urea,104.0567523,2662.056252,Urea,,
+8.458637582,7.914460725,Wheat,Potassium Chloride,222.8029523,4632.060357,Urea,,
+4.21077994,4.75990104,Wheat,Urea,200.7598888,1970.313064,Urea,,
+3.528410587,4.79221302,Rice,Urea,204.7478912,1365.23521,Diammonium Phosphate,Ammonium Sulfate,Brand C
+5.884264748,7.638240714,Rice,Diammonium Phosphate,285.1933249,2274.758416,Urea,Ammonium Sulfate,Brand C
+2.268318025,3.148994312,Wheat,Urea,243.9778832,1418.703882,Urea,,
+8.219772827,1.994267018,Rice,Diammonium Phosphate,81.98423113,1514.385944,Urea,Ammonium Sulfate,Brand C
+1.670955793,4.191599419,Soybean,Potassium Chloride,136.8767706,3295.402392,Diammonium Phosphate,,
+9.881982429,3.585150925,Soybean,Potassium Chloride,158.8484115,1243.607732,Urea,,
+7.950202924,3.666773084,Rice,Diammonium Phosphate,148.9903972,1123.723526,Urea,Ammonium Sulfate,Brand C
+2.788441134,3.102469759,Wheat,Potassium Chloride,217.3271523,3857.656406,Urea,,
+1.049699054,1.378838707,Rice,Urea,272.9732758,2446.588379,Diammonium Phosphate,Ammonium Sulfate,Brand C
+8.339152856,1.160865413,Rice,Urea,126.5128659,1501.501397,Urea,Ammonium Sulfate,Brand C
+7.361716095,9.889501508,Rice,Urea,187.9692841,2014.451083,Urea,Ammonium Sulfate,Brand C
+7.561064512,4.849958204,Maize,Potassium Chloride,247.3523555,3568.346029,Urea,Urea,Brand B
+7.94143312,4.458939824,Soybean,Urea,154.0545147,2102.146269,Urea,,
+1.666401866,7.116825544,Cotton,Potassium Chloride,92.0295321,2978.0845,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.226191557,2.964284991,Cotton,Urea,168.7377413,1486.781227,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.042821536,9.549650656,Maize,Diammonium Phosphate,63.80563019,3352.37455,Urea,Urea,Brand B
+8.767930833,8.07710513,Rice,Potassium Chloride,285.5958635,2264.310735,Urea,Ammonium Sulfate,Brand C
+6.609683141,1.804699021,Maize,Potassium Chloride,68.7053013,3507.873738,Urea,Urea,Brand B
+3.978082224,4.758226982,Maize,Urea,159.6141788,4233.579529,Urea,Urea,Brand B
+1.572025153,8.912064768,Wheat,Potassium Chloride,182.4703153,3446.585678,Urea,,
+3.798840895,9.502588201,Soybean,Potassium Chloride,296.3259581,2182.99025,Diammonium Phosphate,,
+3.926649898,5.206613601,Cotton,Diammonium Phosphate,91.50545591,2022.974806,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.566455605,6.520702503,Rice,Diammonium Phosphate,78.60787965,2309.683835,Urea,Ammonium Sulfate,Brand C
+6.738017242,2.503305515,Cotton,Urea,52.17653677,1658.482053,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.984914683,9.920517635,Cotton,Diammonium Phosphate,88.89285922,1724.687403,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.249934326,3.085045312,Soybean,Urea,101.8182448,4162.764408,Urea,,
+2.076348213,9.484585967,Cotton,Urea,207.6452354,2538.930306,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.419203085,6.846819841,Cotton,Urea,104.9266976,2743.980722,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.847065438,6.469631154,Maize,Potassium Chloride,55.13020368,3376.197862,Urea,Urea,Brand B
+6.051494778,5.614196599,Soybean,Diammonium Phosphate,256.6545864,3358.613981,Urea,,
+7.93870462,3.076028305,Wheat,Urea,141.3989253,1269.507486,Urea,,
+5.444160367,2.588752288,Rice,Diammonium Phosphate,138.4241716,4326.163145,Urea,Ammonium Sulfate,Brand C
+5.704595464,2.984375882,Cotton,Urea,125.6197573,1709.306213,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.847869165,2.677944359,Rice,Diammonium Phosphate,293.8433193,3892.286544,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.228772141,8.016260262,Wheat,Diammonium Phosphate,92.52885433,4090.683953,Urea,,
+1.971022843,4.151127333,Rice,Urea,274.559516,3859.598136,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.282862671,1.520584089,Wheat,Potassium Chloride,244.200833,3315.910586,Urea,,
+6.727693701,9.721923671,Maize,Diammonium Phosphate,69.11998887,1058.435988,Urea,Urea,Brand B
+3.82920383,8.954072965,Cotton,Potassium Chloride,296.6822754,2441.501969,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.57713622,9.349770549,Wheat,Potassium Chloride,117.8414909,3419.357717,Urea,,
+9.168098265,9.954170404,Rice,Urea,74.64573176,2549.805184,Urea,Ammonium Sulfate,Brand C
+3.243630062,2.565057243,Cotton,Urea,257.3285585,4453.91958,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.693446307,4.56617817,Maize,Urea,226.6688834,2235.209101,Urea,Urea,Brand B
+7.799960247,7.824146281,Cotton,Diammonium Phosphate,204.3047015,2174.13917,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.059183489,7.264185562,Wheat,Urea,88.99521592,2063.990772,Urea,,
+1.692819188,2.385063157,Maize,Urea,169.6240291,2331.123476,Urea,Urea,Brand B
+3.607763076,8.342498125,Rice,Diammonium Phosphate,245.1390067,3229.619857,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.450991585,3.019965147,Maize,Diammonium Phosphate,125.9059845,3828.061177,Urea,Urea,Brand B
+9.367278871,3.014358533,Maize,Urea,127.9224571,3650.271671,Urea,Urea,Brand B
+8.273083416,5.832769806,Soybean,Urea,50.78522651,4230.87128,Urea,,
+6.700633809,6.336459414,Maize,Urea,93.56085041,4543.655982,Urea,Urea,Brand B
+8.843145312,6.220775871,Maize,Urea,268.8514063,4264.316169,Urea,Urea,Brand B
+8.233048692,1.823381537,Cotton,Potassium Chloride,160.4366229,1075.781613,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.67913053,8.897147764,Rice,Potassium Chloride,296.0586248,3943.671814,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.033030986,3.390400383,Cotton,Urea,148.9269909,1833.598294,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.854080177,2.165634292,Cotton,Potassium Chloride,228.7966137,1531.712171,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.266961396,8.998732719,Wheat,Diammonium Phosphate,120.4797607,3553.955139,Urea,,
+9.064821699,9.600863484,Cotton,Potassium Chloride,140.9524103,2278.972782,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.862031275,8.759148555,Soybean,Potassium Chloride,97.6814969,1228.468653,Diammonium Phosphate,,
+1.990467321,8.285644673,Soybean,Urea,136.7655921,1550.518938,Diammonium Phosphate,,
+3.051416463,6.897177826,Wheat,Potassium Chloride,186.8093801,1003.717667,Urea,,
+4.843970098,5.957716335,Rice,Potassium Chloride,297.9432202,4612.894509,Diammonium Phosphate,Ammonium Sulfate,Brand C
+8.362132893,1.782880839,Rice,Potassium Chloride,216.0504283,1098.471935,Urea,Ammonium Sulfate,Brand C
+8.746575249,4.676078918,Cotton,Potassium Chloride,99.8114886,1837.823078,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.062569175,4.354196653,Cotton,Diammonium Phosphate,61.2403604,2665.051123,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.596725723,3.337784054,Cotton,Urea,81.58912033,2426.285304,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.756699028,7.510781023,Rice,Urea,190.6388003,4646.903508,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.998970294,5.462881616,Maize,Diammonium Phosphate,241.2900822,1161.155783,Urea,Urea,Brand B
+2.078788306,1.729415943,Soybean,Potassium Chloride,285.1048018,3048.858831,Diammonium Phosphate,,
+4.038536543,2.981648818,Maize,Diammonium Phosphate,53.955793,3721.91785,Urea,Urea,Brand B
+9.486187335,7.149328873,Maize,Potassium Chloride,180.6900354,4726.791895,Urea,Urea,Brand B
+3.908826388,1.685177735,Rice,Diammonium Phosphate,167.7168391,3481.485008,Diammonium Phosphate,Ammonium Sulfate,Brand C
+5.669115596,8.660862226,Maize,Urea,214.0137555,4215.020944,Urea,Urea,Brand B
+7.32717063,5.456318743,Wheat,Urea,189.8947136,1334.899751,Urea,,
+4.272666421,5.325279196,Cotton,Urea,221.7597876,2543.758044,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.746038744,6.331670062,Wheat,Potassium Chloride,214.5206462,2495.788538,Urea,,
+9.662025654,8.422128693,Soybean,Potassium Chloride,79.25293121,4545.152866,Urea,,
+3.266040662,4.130282871,Cotton,Diammonium Phosphate,249.9294784,1605.484685,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.475236553,7.102145373,Maize,Diammonium Phosphate,80.80814393,1607.544689,Urea,Urea,Brand B
+3.707904788,6.091587676,Soybean,Urea,224.6326563,2314.2326,Diammonium Phosphate,,
+3.563564449,3.403254432,Cotton,Potassium Chloride,154.0363419,1217.864189,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.331982526,8.907669877,Maize,Diammonium Phosphate,178.4626836,1729.832163,Urea,Urea,Brand B
+6.486079006,8.176834194,Wheat,Potassium Chloride,275.8245036,4860.838554,Urea,,
+5.524111209,6.926066512,Cotton,Potassium Chloride,272.4709316,2712.735759,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.463308761,8.655235562,Maize,Urea,254.4640764,3528.076834,Urea,Urea,Brand B
+3.507818178,8.805647809,Wheat,Urea,177.5370951,3904.445037,Urea,,
+9.174392974,7.37526679,Soybean,Potassium Chloride,234.0599525,2467.845628,Urea,,
+3.156057016,8.533119955,Soybean,Potassium Chloride,178.2242639,1588.908298,Diammonium Phosphate,,
+2.304053849,7.277243155,Soybean,Potassium Chloride,267.4015206,1826.324065,Diammonium Phosphate,,
+5.405074842,7.121266946,Soybean,Potassium Chloride,150.6939583,2253.065906,Urea,,
+9.870854087,6.567502404,Rice,Urea,292.5588361,3544.273681,Urea,Ammonium Sulfate,Brand C
+3.178497444,7.774449756,Cotton,Diammonium Phosphate,283.0806896,2593.122196,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.049219927,2.427445948,Cotton,Urea,235.4006549,1027.258792,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.854576538,8.927836833,Rice,Diammonium Phosphate,119.853971,3093.62874,Urea,Ammonium Sulfate,Brand C
+3.138737896,8.84659175,Maize,Potassium Chloride,82.9133972,4686.053568,Urea,Urea,Brand B
+7.553947138,1.263225547,Maize,Diammonium Phosphate,263.6758625,4248.310444,Urea,Urea,Brand B
+4.310048194,8.432350755,Soybean,Urea,91.32557153,4300.845485,Diammonium Phosphate,,
+6.690752475,2.159828807,Wheat,Urea,263.5651972,4180.23207,Urea,,
+6.701767397,4.016069688,Maize,Potassium Chloride,172.6912517,2294.923302,Urea,Urea,Brand B
+5.821972157,7.691574307,Wheat,Urea,151.639196,4060.775335,Urea,,
+1.81260793,2.446839064,Cotton,Potassium Chloride,275.7976947,1572.645431,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.51772246,8.361703217,Wheat,Urea,200.9627456,3630.864589,Urea,,
+3.887020585,8.489207602,Cotton,Urea,194.1535018,3566.274267,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.678666594,5.567209604,Rice,Potassium Chloride,189.6914862,1102.279196,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.366976274,1.057472845,Rice,Diammonium Phosphate,142.792379,4151.880534,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.318036489,3.583343199,Soybean,Urea,246.4107759,4612.99242,Urea,,
+7.098079257,6.552342265,Maize,Diammonium Phosphate,113.199611,2069.661114,Urea,Urea,Brand B
+1.14929046,9.830675602,Soybean,Urea,284.72374,4249.562897,Diammonium Phosphate,,
+5.608837525,6.686321743,Cotton,Urea,273.4963013,1329.623887,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.038461977,3.33823223,Soybean,Urea,134.3700814,3399.871433,Diammonium Phosphate,,
+6.806555114,6.706051328,Wheat,Urea,232.3659425,2942.587461,Urea,,
+2.569297861,5.859868417,Cotton,Diammonium Phosphate,193.3057986,3183.694133,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.218439643,8.018608556,Rice,Diammonium Phosphate,134.4123255,4704.820808,Urea,Ammonium Sulfate,Brand C
+4.480618117,1.962825749,Maize,Urea,297.130412,4485.260989,Urea,Urea,Brand B
+9.430569899,7.849251123,Cotton,Urea,56.30933646,4140.334629,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.237688497,5.871399208,Cotton,Diammonium Phosphate,113.1615077,2094.793831,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.069597159,9.666928035,Wheat,Potassium Chloride,180.0185153,4647.274515,Urea,,
+2.021261691,4.076849494,Maize,Potassium Chloride,180.4882509,1390.03077,Urea,Urea,Brand B
+9.322242565,6.693597038,Rice,Diammonium Phosphate,197.2332687,4413.316866,Urea,Ammonium Sulfate,Brand C
+8.89605418,9.38825295,Cotton,Urea,237.919043,2312.640289,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.321474649,1.922587552,Cotton,Urea,205.8694576,1215.089247,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.939856414,9.435056385,Wheat,Potassium Chloride,200.0703651,3677.427937,Urea,,
+8.354999802,7.190971501,Soybean,Potassium Chloride,63.37861573,1925.119713,Urea,,
+5.996807304,1.610533532,Rice,Diammonium Phosphate,144.1325719,1974.284503,Urea,Ammonium Sulfate,Brand C
+5.766855205,3.708672103,Maize,Potassium Chloride,108.0139349,2224.188665,Urea,Urea,Brand B
+3.176670618,7.373548798,Cotton,Diammonium Phosphate,116.3425279,1254.73907,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.83792491,1.606155413,Cotton,Potassium Chloride,188.5843686,1708.508577,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.074941822,6.239534142,Rice,Potassium Chloride,99.87632873,1020.55851,Urea,Ammonium Sulfate,Brand C
+9.103762514,4.112947513,Soybean,Potassium Chloride,123.4872753,2781.638084,Urea,,
+6.697913115,6.58823966,Cotton,Urea,109.2711771,1337.02151,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.051268119,1.411678304,Rice,Urea,287.1257358,3730.61042,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.142886172,8.843831255,Wheat,Urea,286.166433,1942.491405,Urea,,
+7.53360111,9.761400723,Soybean,Potassium Chloride,202.4853896,4774.296576,Urea,,
+9.07399234,9.719900698,Maize,Diammonium Phosphate,281.1306172,4485.00651,Urea,Urea,Brand B
+8.983777818,7.746866486,Cotton,Diammonium Phosphate,246.4531614,2157.76358,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.018879913,2.170776161,Rice,Diammonium Phosphate,197.4869707,4132.861819,Urea,Ammonium Sulfate,Brand C
+6.778284815,7.824368763,Wheat,Diammonium Phosphate,51.60880287,4212.979619,Urea,,
+1.757259685,1.221282248,Maize,Urea,243.1290715,4946.252456,Urea,Urea,Brand B
+2.454658427,1.199111964,Rice,Urea,225.6220854,3391.359947,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.086987697,3.912491972,Rice,Potassium Chloride,203.8134133,1327.862939,Urea,Ammonium Sulfate,Brand C
+6.457861537,5.397788714,Maize,Potassium Chloride,240.1060779,3587.348916,Urea,Urea,Brand B
+1.082773465,7.93366676,Wheat,Diammonium Phosphate,178.2305412,3499.918994,Urea,,
+1.913243886,7.149658389,Wheat,Urea,226.0208178,3553.40231,Urea,,
+6.971515922,5.013124357,Soybean,Diammonium Phosphate,283.7930217,2228.582592,Urea,,
+1.045554255,3.462639997,Cotton,Potassium Chloride,143.951254,4438.71834,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.447272463,9.974120501,Maize,Potassium Chloride,227.0304587,4837.888732,Urea,Urea,Brand B
+5.938604104,4.83563172,Maize,Diammonium Phosphate,168.9219545,1870.850052,Urea,Urea,Brand B
+7.227056779,5.062483219,Maize,Potassium Chloride,218.599913,1352.608633,Urea,Urea,Brand B
+6.867651336,2.472614391,Wheat,Diammonium Phosphate,240.7233339,1778.140133,Urea,,
+3.018423785,8.153285939,Cotton,Urea,61.36312511,4282.208557,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.409612992,7.243140032,Soybean,Diammonium Phosphate,211.650111,3706.578539,Urea,,
+3.135241787,2.986926515,Rice,Urea,106.6852961,3544.189369,Diammonium Phosphate,Ammonium Sulfate,Brand C
+3.928597283,1.741429411,Rice,Urea,217.5081345,2607.17254,Diammonium Phosphate,Ammonium Sulfate,Brand C
+7.718422646,7.124493719,Maize,Potassium Chloride,167.0825465,3311.311886,Urea,Urea,Brand B
+6.846696091,6.890600929,Cotton,Potassium Chloride,243.3881855,2231.496501,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.643010694,3.459335743,Wheat,Potassium Chloride,80.8502038,2908.800318,Urea,,
+6.918516031,9.55777206,Cotton,Diammonium Phosphate,206.5805879,4172.252113,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.11477743,2.359521026,Cotton,Diammonium Phosphate,119.6176822,4924.96639,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.84307291,4.891013209,Wheat,Potassium Chloride,263.2454988,4729.955694,Urea,,
+4.309442228,9.492543282,Maize,Diammonium Phosphate,282.0958764,4735.463771,Urea,Urea,Brand B
+3.386821309,4.777545852,Cotton,Potassium Chloride,299.0995734,2608.894939,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.19590679,6.746733529,Rice,Diammonium Phosphate,249.0018506,2875.159522,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.757094993,4.578349582,Wheat,Urea,238.4335176,3822.541585,Urea,,
+4.537879522,3.467936821,Soybean,Urea,103.8751897,4688.767712,Diammonium Phosphate,,
+9.028418997,9.855798832,Maize,Potassium Chloride,134.0017647,1567.977037,Urea,Urea,Brand B
+6.680247634,4.684006057,Wheat,Diammonium Phosphate,166.4206354,2216.967455,Urea,,
+8.153301732,9.046892833,Soybean,Diammonium Phosphate,243.3452619,1556.987378,Urea,,
+5.523733838,3.069591453,Soybean,Urea,278.7414663,3448.03412,Urea,,
+6.192134962,2.917942336,Cotton,Urea,97.28477501,2225.203988,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.432659244,1.280206746,Cotton,Potassium Chloride,280.5918712,2304.43141,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.75718689,6.865001428,Cotton,Urea,223.9061631,1283.663838,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.502069037,4.316737094,Wheat,Potassium Chloride,202.6926827,2399.184247,Urea,,
+3.526951262,8.779224249,Wheat,Urea,99.96031782,4449.98603,Urea,,
+1.218843698,5.25888916,Maize,Urea,63.8812582,1932.291248,Urea,Urea,Brand B
+6.809250663,9.713740851,Cotton,Diammonium Phosphate,192.1162246,3780.749865,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.593996115,2.669729641,Soybean,Urea,212.8789208,3518.51338,Diammonium Phosphate,,
+9.464127259,8.817608512,Rice,Urea,102.6953623,4453.938433,Urea,Ammonium Sulfate,Brand C
+9.585357193,7.989371675,Maize,Potassium Chloride,189.1140515,1529.151791,Urea,Urea,Brand B
+9.233779512,7.938296602,Wheat,Urea,264.1233507,4910.359841,Urea,,
+4.331428302,8.603049053,Maize,Potassium Chloride,258.7664864,3330.514584,Urea,Urea,Brand B
+1.139109549,7.849215918,Maize,Urea,281.8387951,4981.896609,Urea,Urea,Brand B
+9.354867063,6.635982895,Maize,Urea,141.4714524,4646.058903,Urea,Urea,Brand B
+4.853657335,2.181203899,Maize,Potassium Chloride,129.5123931,1886.069088,Urea,Urea,Brand B
+9.699893371,1.292735615,Rice,Diammonium Phosphate,237.3565015,1224.64804,Urea,Ammonium Sulfate,Brand C
+9.672579794,9.28763063,Cotton,Potassium Chloride,157.7781013,2022.556375,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.677085099,6.549852831,Soybean,Potassium Chloride,71.88716601,3110.254596,Urea,,
+3.650040029,8.168835619,Maize,Potassium Chloride,120.7002827,1686.385468,Urea,Urea,Brand B
+4.465879557,5.333701164,Maize,Diammonium Phosphate,154.6455714,1669.838978,Urea,Urea,Brand B
+8.660230044,2.055773701,Maize,Urea,123.1291064,2850.374188,Urea,Urea,Brand B
+3.852298046,2.12667213,Cotton,Potassium Chloride,133.0513927,1133.071885,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.52543472,7.170087585,Wheat,Potassium Chloride,123.4439765,1487.55233,Urea,,
+6.011211362,4.872753054,Wheat,Diammonium Phosphate,60.3747918,2663.445358,Urea,,
+9.425392967,2.80472254,Rice,Potassium Chloride,209.2736752,1252.519637,Urea,Ammonium Sulfate,Brand C
+7.26426817,5.424350921,Wheat,Urea,199.3231051,2587.020226,Urea,,
+6.130550531,1.577880434,Maize,Diammonium Phosphate,213.3458746,2896.025064,Urea,Urea,Brand B
+1.874588444,6.237742617,Maize,Urea,98.07747401,2805.066456,Urea,Urea,Brand B
+6.53506504,3.42094064,Maize,Urea,123.9136354,4476.69943,Urea,Urea,Brand B
+9.910484651,8.178031906,Rice,Diammonium Phosphate,204.9039817,3120.24982,Urea,Ammonium Sulfate,Brand C
+2.260756137,3.79325763,Maize,Potassium Chloride,199.9068921,2871.92185,Urea,Urea,Brand B
+5.664966871,5.096981342,Wheat,Urea,176.5825773,2642.836982,Urea,,
+8.896357647,1.104584859,Cotton,Urea,137.6033125,4270.493513,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.66691756,1.65202199,Cotton,Urea,278.2327512,4580.226416,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.273141669,4.532442008,Soybean,Urea,134.9425606,4412.969877,Urea,,
+7.322356756,5.319449512,Wheat,Diammonium Phosphate,163.9047891,3694.186313,Urea,,
+4.235420361,6.400184933,Maize,Diammonium Phosphate,219.5284577,1549.446984,Urea,Urea,Brand B
+3.642326598,3.624963208,Cotton,Urea,185.7553577,2107.479878,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.284250399,7.254836975,Wheat,Potassium Chloride,136.7214941,1184.252255,Urea,,
+8.291020552,8.741101575,Cotton,Urea,158.9111976,4723.2963,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.803650867,8.0186589,Maize,Potassium Chloride,248.6202045,3643.194119,Urea,Urea,Brand B
+9.219164973,1.356569428,Cotton,Urea,119.5322889,3985.451537,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.60208159,5.324562525,Soybean,Potassium Chloride,85.56380994,2246.286958,Urea,,
+5.513646652,1.944371606,Soybean,Urea,128.2908005,4382.614089,Urea,,
+8.184656611,3.178405143,Cotton,Potassium Chloride,262.3835539,2038.413135,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.849675377,9.879963339,Wheat,Urea,72.24742871,1006.575028,Urea,,
+7.317701895,2.282459886,Wheat,Urea,297.9240183,2505.65985,Urea,,
+8.162134025,5.489993381,Wheat,Potassium Chloride,185.2507247,3283.045924,Urea,,
+9.010048076,6.563401609,Cotton,Diammonium Phosphate,296.211436,2914.819432,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.041956412,7.322184735,Wheat,Potassium Chloride,284.7491055,4448.30457,Urea,,
+4.380246574,6.036838151,Maize,Diammonium Phosphate,163.2034286,1421.621144,Urea,Urea,Brand B
+1.845837459,1.087937627,Soybean,Urea,99.62276865,3215.293763,Diammonium Phosphate,,
+6.204521269,3.938151774,Maize,Potassium Chloride,91.22119414,3051.917399,Urea,Urea,Brand B
+1.323480464,5.65940479,Wheat,Potassium Chloride,109.997341,2125.571929,Urea,,
+5.190382163,1.790798492,Maize,Potassium Chloride,227.5331601,4288.91245,Urea,Urea,Brand B
+5.883801712,4.155642381,Wheat,Diammonium Phosphate,118.2374987,4011.394624,Urea,,
+3.578871269,1.298827979,Cotton,Diammonium Phosphate,135.3563174,3931.436749,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.317499345,1.707206474,Maize,Urea,162.194701,4504.769913,Urea,Urea,Brand B
+1.274502249,4.572309486,Cotton,Diammonium Phosphate,278.3081701,3891.138402,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.336133699,2.194441786,Cotton,Diammonium Phosphate,97.34835447,1927.365167,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.403405046,6.107867634,Rice,Urea,51.25663815,3822.250847,Urea,Ammonium Sulfate,Brand C
+4.241715773,7.205184722,Wheat,Potassium Chloride,65.02410259,2230.811254,Urea,,
+2.143544614,8.205280292,Soybean,Potassium Chloride,276.1915854,1968.698601,Diammonium Phosphate,,
+5.70018934,2.801352198,Wheat,Urea,211.8791162,1292.014372,Urea,,
+7.929941978,2.50734324,Soybean,Potassium Chloride,118.2601548,3976.114321,Urea,,
+2.942389247,1.941110563,Wheat,Diammonium Phosphate,94.29812525,3844.003848,Urea,,
+6.606014282,6.727872246,Cotton,Urea,123.5666842,1937.997911,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.768127185,7.358281538,Maize,Urea,78.69923181,3997.516067,Urea,Urea,Brand B
+1.465135491,1.284275303,Maize,Urea,285.3832276,4671.363532,Urea,Urea,Brand B
+5.782191684,9.425910216,Rice,Potassium Chloride,246.0515436,1432.11583,Urea,Ammonium Sulfate,Brand C
+5.865716094,1.467741553,Soybean,Urea,165.5977942,1930.546554,Urea,,
+6.736869113,5.871667018,Soybean,Urea,266.2406513,4001.043176,Urea,,
+7.534822004,7.381544675,Soybean,Urea,112.3645511,2098.026694,Urea,,
+9.782668715,8.838722114,Cotton,Potassium Chloride,229.2801421,3498.655897,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.646703135,7.426782389,Soybean,Diammonium Phosphate,264.0331248,1324.656898,Urea,,
+3.906608256,8.215552748,Maize,Urea,139.1921779,2808.809916,Urea,Urea,Brand B
+8.156675753,4.055051733,Cotton,Diammonium Phosphate,239.3661114,3956.365688,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.437490261,8.333426024,Wheat,Potassium Chloride,123.7680873,3746.055772,Urea,,
+4.950742786,1.721033617,Soybean,Potassium Chloride,124.7142838,4260.288403,Diammonium Phosphate,,
+1.706107432,9.053349905,Soybean,Potassium Chloride,76.76429464,4509.808506,Diammonium Phosphate,,
+1.228156691,5.928331385,Wheat,Potassium Chloride,160.0145116,4092.734005,Urea,,
+9.663835732,8.35567993,Soybean,Diammonium Phosphate,232.4279766,3686.350972,Urea,,
+8.523821085,5.070864561,Wheat,Urea,285.0552014,1126.889967,Urea,,
+7.263767855,6.792199257,Cotton,Potassium Chloride,200.949248,3139.866694,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.6805765,5.737623948,Maize,Potassium Chloride,265.7838844,1150.7909,Urea,Urea,Brand B
+2.559648881,7.584305696,Wheat,Diammonium Phosphate,255.6236623,4232.271268,Urea,,
+2.407933384,1.734669838,Rice,Diammonium Phosphate,93.33576324,2282.898098,Diammonium Phosphate,Ammonium Sulfate,Brand C
+3.252186083,1.543168756,Wheat,Potassium Chloride,171.4543572,3249.717496,Urea,,
+5.943039982,3.223929106,Soybean,Urea,79.23088388,2117.781229,Urea,,
+7.431363304,2.435902121,Cotton,Urea,220.5382904,4130.000578,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.94177639,8.846052099,Cotton,Potassium Chloride,287.4749171,4546.010107,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.519405073,2.972925886,Wheat,Diammonium Phosphate,84.27236452,2594.569977,Urea,,
+9.593787526,9.782787302,Maize,Potassium Chloride,233.4707827,4451.689574,Urea,Urea,Brand B
+7.64107225,4.032062126,Rice,Potassium Chloride,208.0595377,2068.30003,Urea,Ammonium Sulfate,Brand C
+5.989186473,2.639061241,Cotton,Diammonium Phosphate,195.9012593,3138.643692,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.505486716,8.107286564,Soybean,Potassium Chloride,147.5300587,4435.045719,Urea,,
+4.776400562,6.92836998,Soybean,Potassium Chloride,138.7829119,2303.52537,Diammonium Phosphate,,
+3.229578906,5.483761448,Maize,Potassium Chloride,61.31229725,4816.16906,Urea,Urea,Brand B
+4.203754108,5.998271958,Cotton,Diammonium Phosphate,104.4771771,1487.518007,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.820614994,7.472816004,Wheat,Urea,53.79422057,1073.100279,Urea,,
+1.129541398,3.056092672,Soybean,Urea,195.3542764,4616.54141,Diammonium Phosphate,,
+2.044653765,9.967005245,Maize,Diammonium Phosphate,76.46330897,1274.594665,Urea,Urea,Brand B
+1.414023778,9.773138459,Cotton,Urea,268.2548485,4967.556784,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.366559221,6.852931177,Cotton,Potassium Chloride,180.7857552,4805.587448,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.699145256,2.795882058,Cotton,Urea,224.9224773,1548.08364,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.332920734,7.122054182,Cotton,Potassium Chloride,152.714273,3150.338503,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.267564462,1.649785681,Cotton,Urea,190.1449523,1739.68119,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.880507446,1.27587252,Soybean,Diammonium Phosphate,285.6647942,2712.620692,Diammonium Phosphate,,
+5.424542876,3.319145997,Maize,Urea,70.68350991,1245.700517,Urea,Urea,Brand B
+5.261245937,5.163606611,Cotton,Urea,113.484443,1895.698351,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.558816829,8.814452549,Rice,Urea,244.9970817,2453.091186,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.904664843,7.544521628,Rice,Diammonium Phosphate,74.68430172,2754.590001,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.58654261,7.684358691,Maize,Urea,68.91527598,4909.985033,Urea,Urea,Brand B
+6.542650882,4.82944001,Wheat,Diammonium Phosphate,140.3853497,4231.462583,Urea,,
+6.715842858,4.113414933,Wheat,Potassium Chloride,73.04198962,3949.639777,Urea,,
+1.407736088,4.339348867,Wheat,Urea,196.2696106,3148.165259,Urea,,
+4.371513532,9.888846074,Rice,Diammonium Phosphate,106.5688127,4359.991042,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.632739241,1.360982723,Wheat,Diammonium Phosphate,273.9244908,2357.291343,Urea,,
+5.528226327,8.803283465,Soybean,Urea,245.8750202,3835.596451,Urea,,
+8.708408571,6.208078677,Cotton,Potassium Chloride,224.9263015,4975.135902,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.928242685,4.947538773,Rice,Diammonium Phosphate,204.2360068,2258.515636,Urea,Ammonium Sulfate,Brand C
+2.466409844,7.527318944,Maize,Urea,265.8664326,3696.07014,Urea,Urea,Brand B
+1.635118727,5.380020473,Maize,Potassium Chloride,105.7655154,4377.259457,Urea,Urea,Brand B
+6.781773504,8.860809143,Cotton,Diammonium Phosphate,268.2772107,4663.230333,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.238601795,9.106316776,Rice,Diammonium Phosphate,247.3730746,3871.730764,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.271980231,4.795488342,Wheat,Potassium Chloride,237.0402066,2134.431694,Urea,,
+9.462072173,3.491450175,Wheat,Potassium Chloride,190.3139195,2305.128606,Urea,,
+6.179267601,6.331152957,Soybean,Urea,111.5610402,1083.032128,Urea,,
+4.493529336,9.211270111,Soybean,Urea,155.886979,4043.543911,Diammonium Phosphate,,
+6.789593966,2.895959701,Wheat,Diammonium Phosphate,248.3926636,1170.958424,Urea,,
+5.124276014,6.606699252,Maize,Potassium Chloride,57.94462109,4458.609418,Urea,Urea,Brand B
+5.910551104,6.684041981,Maize,Potassium Chloride,245.5126923,1474.642458,Urea,Urea,Brand B
+9.473183279,7.598017202,Soybean,Potassium Chloride,110.0176851,1687.506049,Urea,,
+4.47492374,2.184109166,Cotton,Diammonium Phosphate,86.07730018,2906.105883,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.650715074,7.442424682,Wheat,Potassium Chloride,78.92532955,3951.521661,Urea,,
+9.148155778,9.181292686,Soybean,Potassium Chloride,56.81250299,1556.008821,Urea,,
+2.762120213,2.61714798,Soybean,Diammonium Phosphate,180.8966213,2760.2843,Diammonium Phosphate,,
+1.624251708,3.137889924,Wheat,Urea,104.5649682,2931.405098,Urea,,
+1.907002012,9.742555846,Wheat,Urea,297.3579414,1849.142567,Urea,,
+1.163996431,2.628792574,Maize,Diammonium Phosphate,193.609189,1462.233507,Urea,Urea,Brand B
+1.849986647,8.68946584,Cotton,Potassium Chloride,84.47131734,4345.683692,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.147060961,5.430500708,Cotton,Diammonium Phosphate,222.1906352,3009.862599,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.640697836,3.22507967,Wheat,Urea,274.4358916,1057.524944,Urea,,
+3.870780673,8.836749111,Rice,Urea,236.2948738,4211.925205,Diammonium Phosphate,Ammonium Sulfate,Brand C
+8.603877799,5.007747295,Soybean,Diammonium Phosphate,69.10996526,4923.175222,Urea,,
+1.209447422,5.633356185,Soybean,Diammonium Phosphate,273.9710453,3423.704782,Diammonium Phosphate,,
+8.330216343,4.233100325,Wheat,Urea,248.4823465,3014.833548,Urea,,
+3.536692973,6.336557663,Rice,Diammonium Phosphate,89.57597503,4513.663452,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.063483449,2.471714853,Maize,Urea,62.94647218,4810.067159,Urea,Urea,Brand B
+7.270634488,4.51973383,Wheat,Diammonium Phosphate,189.3276438,4018.147664,Urea,,
+6.660485621,9.724710901,Wheat,Diammonium Phosphate,89.00895283,2781.811719,Urea,,
+8.897248122,3.323200894,Soybean,Diammonium Phosphate,258.6477381,3368.885597,Urea,,
+7.615639394,6.910629981,Wheat,Urea,139.5836642,3803.74146,Urea,,
+8.231328373,3.926710578,Wheat,Diammonium Phosphate,278.2231112,1777.094284,Urea,,
+3.538311153,7.961258131,Wheat,Urea,191.422043,2788.804129,Urea,,
+2.596955894,2.177862946,Soybean,Urea,95.66809606,4319.285059,Diammonium Phosphate,,
+7.755532765,9.728389406,Maize,Diammonium Phosphate,84.89971684,3618.901394,Urea,Urea,Brand B
+8.261512653,5.084105872,Maize,Diammonium Phosphate,194.1181094,2644.816269,Urea,Urea,Brand B
+9.914546278,3.12445417,Wheat,Urea,240.470903,3653.450136,Urea,,
+4.713559092,1.661470726,Soybean,Urea,245.3764119,1472.889648,Diammonium Phosphate,,
+4.348162772,2.527821146,Maize,Potassium Chloride,118.9393511,2605.990442,Urea,Urea,Brand B
+7.987716647,5.677965537,Maize,Urea,101.0616897,4172.514152,Urea,Urea,Brand B
+4.067231862,4.033028588,Maize,Potassium Chloride,54.18907612,1882.035149,Urea,Urea,Brand B
+9.37681593,8.459950293,Soybean,Potassium Chloride,219.7997878,1743.84603,Urea,,
+8.725714767,4.877987713,Soybean,Potassium Chloride,69.14206461,4803.27464,Urea,,
+4.860946246,3.238428453,Wheat,Diammonium Phosphate,155.1903004,1839.590518,Urea,,
+7.75783961,6.554304879,Cotton,Diammonium Phosphate,200.420541,2043.674319,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.790885867,7.360994952,Maize,Urea,284.2772362,4878.463756,Urea,Urea,Brand B
+1.92811482,2.503377171,Cotton,Potassium Chloride,127.9505342,3938.834281,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.12297616,2.508572947,Soybean,Diammonium Phosphate,112.4430406,3798.386132,Urea,,
+5.547271352,1.330042842,Soybean,Diammonium Phosphate,213.5400386,4411.705535,Urea,,
+8.438117195,7.627618136,Soybean,Diammonium Phosphate,204.809758,1463.292329,Urea,,
+3.880446409,6.974240749,Cotton,Diammonium Phosphate,133.0274458,3823.824946,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.059709056,5.271677882,Soybean,Diammonium Phosphate,282.0254589,3014.754437,Urea,,
+4.502815109,8.597534041,Wheat,Potassium Chloride,261.2155819,4316.602561,Urea,,
+1.097538863,8.251031377,Soybean,Potassium Chloride,105.9956365,3032.566875,Diammonium Phosphate,,
+9.148437788,6.26818928,Rice,Potassium Chloride,109.7856364,3480.965417,Urea,Ammonium Sulfate,Brand C
+1.821580091,8.814441525,Cotton,Potassium Chloride,178.0750867,2910.968506,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.873822738,2.85257089,Rice,Urea,243.3930254,2912.635694,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.550557703,2.007276575,Soybean,Potassium Chloride,61.01009485,4071.879912,Urea,,
+9.555464322,3.427746504,Wheat,Diammonium Phosphate,223.3337884,3514.265603,Urea,,
+6.160940993,1.513781705,Maize,Potassium Chloride,212.0589743,3533.052806,Urea,Urea,Brand B
+6.68653491,5.780525752,Soybean,Urea,107.870024,2801.129935,Urea,,
+5.036009698,9.429451231,Wheat,Diammonium Phosphate,220.3382533,3124.437985,Urea,,
+3.638896945,1.354091866,Cotton,Potassium Chloride,285.0457978,3982.870665,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.957980908,2.098989226,Rice,Potassium Chloride,61.69646124,4303.763676,Diammonium Phosphate,Ammonium Sulfate,Brand C
+7.052666105,5.069791255,Rice,Potassium Chloride,129.9130138,3786.245609,Urea,Ammonium Sulfate,Brand C
+7.771370765,9.404875158,Rice,Diammonium Phosphate,159.5441792,4696.291955,Urea,Ammonium Sulfate,Brand C
+8.124211394,3.845404945,Cotton,Diammonium Phosphate,274.8150897,4281.296353,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.106563285,5.565113278,Wheat,Urea,290.5653617,3247.455159,Urea,,
+1.820854927,1.374155731,Cotton,Diammonium Phosphate,161.0288116,3685.624291,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.449782742,2.335088809,Rice,Diammonium Phosphate,237.507103,4705.233108,Urea,Ammonium Sulfate,Brand C
+1.51802884,9.879671107,Soybean,Potassium Chloride,182.9152559,3476.672177,Diammonium Phosphate,,
+5.945759941,9.686068268,Maize,Diammonium Phosphate,184.4457337,4299.227792,Urea,Urea,Brand B
+4.973774512,1.044459828,Cotton,Potassium Chloride,119.5248788,3755.242014,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.989337645,9.566306069,Cotton,Potassium Chloride,104.2390615,3207.745444,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.158235113,6.75207944,Wheat,Diammonium Phosphate,122.0013365,1967.352782,Urea,,
+2.053603148,8.811264651,Wheat,Urea,189.0820018,2703.990078,Urea,,
+2.286925138,5.092658701,Cotton,Urea,57.28879651,4870.971299,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.853595685,5.640364257,Rice,Diammonium Phosphate,276.8122361,3631.061533,Urea,Ammonium Sulfate,Brand C
+6.56396257,5.399619222,Maize,Urea,89.07092739,3257.581521,Urea,Urea,Brand B
+1.910104085,7.001778318,Wheat,Potassium Chloride,105.0221692,4731.826502,Urea,,
+1.756961255,2.256861293,Rice,Potassium Chloride,179.5690441,3346.047124,Diammonium Phosphate,Ammonium Sulfate,Brand C
+7.308722183,1.269762309,Soybean,Diammonium Phosphate,227.5286916,3104.330074,Urea,,
+1.654867057,3.771369474,Wheat,Urea,73.93226369,4037.243421,Urea,,
+8.396740534,7.342126865,Rice,Urea,129.4236744,3850.662476,Urea,Ammonium Sulfate,Brand C
+7.356180044,2.816681069,Rice,Potassium Chloride,292.1686514,1772.640034,Urea,Ammonium Sulfate,Brand C
+1.732139026,7.0608919,Maize,Diammonium Phosphate,115.5857417,2885.233098,Urea,Urea,Brand B
+1.763539427,9.729208415,Maize,Urea,128.2625363,2890.061771,Urea,Urea,Brand B
+9.879756207,1.845106442,Soybean,Diammonium Phosphate,259.1246227,2512.898061,Urea,,
+4.368437162,7.053419064,Rice,Urea,62.55360792,3069.173929,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.335779324,4.993751974,Rice,Potassium Chloride,166.1532922,2652.429591,Diammonium Phosphate,Ammonium Sulfate,Brand C
+8.315196105,8.813280289,Maize,Potassium Chloride,144.9041911,1797.381958,Urea,Urea,Brand B
+9.525237196,2.594348105,Wheat,Diammonium Phosphate,129.14669,2649.465949,Urea,,
+9.874009574,7.23363357,Wheat,Potassium Chloride,121.4248985,1289.10779,Urea,,
+7.780403667,8.543037607,Cotton,Urea,72.84352622,3303.143451,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.38633627,9.501527975,Maize,Potassium Chloride,128.7064573,4414.618196,Urea,Urea,Brand B
+1.75150645,7.149232255,Cotton,Diammonium Phosphate,60.76310068,3901.148337,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.994322243,5.474572876,Maize,Diammonium Phosphate,245.2409659,2441.57616,Urea,Urea,Brand B
+6.025638248,6.560625162,Soybean,Diammonium Phosphate,149.5569485,1348.284822,Urea,,
+4.817998083,8.82014486,Rice,Urea,160.9759581,1808.597597,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.157189466,6.13548772,Soybean,Urea,273.3986466,3181.961362,Urea,,
+2.000777341,1.273483537,Maize,Urea,214.513746,1828.228334,Urea,Urea,Brand B
+5.433625939,9.37853826,Rice,Urea,52.01477584,3175.892445,Urea,Ammonium Sulfate,Brand C
+1.102182803,7.205740759,Wheat,Urea,285.7937057,1926.396099,Urea,,
+5.217945778,7.088620472,Wheat,Potassium Chloride,109.2861165,4395.695478,Urea,,
+1.506729481,2.941076372,Cotton,Urea,76.90354619,2589.085891,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.069361246,6.929969232,Maize,Urea,242.0320446,1982.202504,Urea,Urea,Brand B
+2.057736221,4.544779651,Maize,Potassium Chloride,175.119329,4249.304721,Urea,Urea,Brand B
+6.842892719,6.861096793,Wheat,Urea,158.4426415,2371.355859,Urea,,
+7.714403913,1.959337273,Soybean,Diammonium Phosphate,112.3757699,1445.950751,Urea,,
+6.250318886,6.920607741,Rice,Urea,186.8678725,3281.637966,Urea,Ammonium Sulfate,Brand C
+9.659552936,9.994723532,Soybean,Urea,118.5961513,3326.256818,Urea,,
+4.373835216,1.43390835,Soybean,Diammonium Phosphate,275.3957513,3858.782701,Diammonium Phosphate,,
+3.571408777,9.794567658,Wheat,Diammonium Phosphate,103.8011199,1960.877733,Urea,,
+8.817392154,4.662171647,Wheat,Diammonium Phosphate,271.0887876,2775.085356,Urea,,
+3.012362547,8.836781053,Wheat,Diammonium Phosphate,189.8513564,2129.471676,Urea,,
+9.669002855,8.041469357,Cotton,Urea,257.1220335,1323.814944,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.109390272,6.103146349,Soybean,Diammonium Phosphate,228.211499,4506.455308,Diammonium Phosphate,,
+9.72890944,7.646042883,Maize,Diammonium Phosphate,224.1737779,3915.479218,Urea,Urea,Brand B
+1.388439208,8.906640052,Rice,Potassium Chloride,131.0864519,2205.852238,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.020288023,4.637262895,Cotton,Diammonium Phosphate,108.4742329,3397.491971,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.749309982,3.943298454,Maize,Diammonium Phosphate,102.7215569,1805.055153,Urea,Urea,Brand B
+9.936683165,7.00834047,Soybean,Potassium Chloride,264.2979143,4560.946487,Urea,,
+1.664169083,8.270613477,Wheat,Potassium Chloride,255.1067051,1459.625373,Urea,,
+5.98468856,7.860566213,Soybean,Urea,160.143382,1015.348582,Urea,,
+9.723722821,8.18032284,Rice,Potassium Chloride,83.10115337,3008.032791,Urea,Ammonium Sulfate,Brand C
+5.707880598,4.920249833,Cotton,Urea,145.563063,3332.511294,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.664587743,8.360507946,Cotton,Potassium Chloride,204.8358635,3315.861281,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.261738201,2.081881498,Rice,Potassium Chloride,163.6007886,1218.04771,Urea,Ammonium Sulfate,Brand C
+5.090869583,5.900401882,Maize,Urea,245.0473171,2256.175228,Urea,Urea,Brand B
+6.648022721,1.051827944,Maize,Potassium Chloride,299.4057056,2996.795787,Urea,Urea,Brand B
+6.258828807,3.921272469,Cotton,Urea,97.78302211,1866.316743,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.110422094,4.298153814,Cotton,Potassium Chloride,164.9127049,4490.503542,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.409017423,4.565554224,Wheat,Diammonium Phosphate,157.7459755,1348.437158,Urea,,
+3.528668706,7.25920486,Maize,Potassium Chloride,126.1231332,2949.537767,Urea,Urea,Brand B
+9.553703357,4.497022911,Rice,Urea,99.52387918,3765.66423,Urea,Ammonium Sulfate,Brand C
+9.012374055,5.038242604,Maize,Potassium Chloride,66.42302912,2047.004401,Urea,Urea,Brand B
+5.100910775,3.137897178,Wheat,Urea,271.7798293,3496.962948,Urea,,
+6.58119338,4.359266125,Cotton,Urea,154.9621744,4317.540601,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.496430647,3.045426645,Cotton,Diammonium Phosphate,174.2238796,1761.3479,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.693090438,1.658763314,Wheat,Diammonium Phosphate,279.2355121,4668.882367,Urea,,
+5.173285644,6.43103734,Rice,Urea,244.0726194,3214.234131,Urea,Ammonium Sulfate,Brand C
+4.180170052,7.013915187,Cotton,Potassium Chloride,82.62531603,2196.928017,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.252905007,6.575413114,Soybean,Urea,191.3549919,2723.433102,Urea,,
+1.699611733,5.171446394,Cotton,Urea,160.5630691,2248.767535,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.769553269,4.418072022,Soybean,Potassium Chloride,249.3027681,3900.44464,Urea,,
+9.8758967,8.770002846,Wheat,Potassium Chloride,231.0581369,4185.202654,Urea,,
+7.283455426,5.671736066,Wheat,Potassium Chloride,222.6014305,4331.749569,Urea,,
+5.824867297,5.312636899,Cotton,Potassium Chloride,135.1362089,4943.072998,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.785748547,1.230778592,Maize,Urea,251.2409326,4165.13717,Urea,Urea,Brand B
+8.324155177,4.071230449,Soybean,Urea,63.0978239,3405.536283,Urea,,
+7.162580553,4.421760569,Rice,Diammonium Phosphate,89.90622536,2356.881194,Urea,Ammonium Sulfate,Brand C
+2.463552454,4.589405028,Cotton,Urea,133.9058182,3178.381795,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.19834466,6.221551323,Rice,Potassium Chloride,69.20186027,1164.272691,Urea,Ammonium Sulfate,Brand C
+8.402835186,5.802422921,Cotton,Diammonium Phosphate,108.7485694,3979.300302,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.54819922,6.471145835,Maize,Potassium Chloride,257.5377457,2783.82218,Urea,Urea,Brand B
+7.531475575,7.883949354,Maize,Urea,287.0628844,1080.092919,Urea,Urea,Brand B
+6.520736763,8.316871648,Maize,Diammonium Phosphate,126.1505889,1250.027766,Urea,Urea,Brand B
+4.764187327,7.463107686,Maize,Potassium Chloride,116.128951,2549.865855,Urea,Urea,Brand B
+9.39455635,9.599713264,Wheat,Diammonium Phosphate,119.9731631,3333.686076,Urea,,
+8.794575006,1.164093244,Wheat,Diammonium Phosphate,119.4297718,2856.815796,Urea,,
+1.406968031,2.762001871,Soybean,Urea,58.98254555,3476.817269,Diammonium Phosphate,,
+1.23730277,1.068065875,Rice,Potassium Chloride,281.7290866,2921.177035,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.388170302,6.827272427,Cotton,Diammonium Phosphate,103.4245354,3646.815382,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.294979977,9.082274941,Cotton,Diammonium Phosphate,155.0010185,1876.504259,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.885485164,3.191340669,Wheat,Potassium Chloride,52.42172069,1451.372749,Urea,,
+2.35375202,9.343310903,Cotton,Diammonium Phosphate,264.4887727,3385.735819,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.347176438,1.542406513,Wheat,Diammonium Phosphate,232.7893361,2938.758068,Urea,,
+4.42801771,9.409924241,Soybean,Diammonium Phosphate,286.6890088,1107.470616,Diammonium Phosphate,,
+9.72922958,4.164604185,Rice,Potassium Chloride,245.4038698,2521.927542,Urea,Ammonium Sulfate,Brand C
+8.579070308,1.912787456,Soybean,Potassium Chloride,128.426628,1424.502342,Urea,,
+8.544958342,5.372845833,Maize,Potassium Chloride,111.9683397,3125.427327,Urea,Urea,Brand B
+5.218238438,3.310989109,Maize,Potassium Chloride,224.4290769,2583.110719,Urea,Urea,Brand B
+4.733375521,3.563856118,Maize,Urea,141.0281938,3452.607644,Urea,Urea,Brand B
+3.460663647,3.765609684,Soybean,Diammonium Phosphate,191.5537539,4222.408875,Diammonium Phosphate,,
+1.50737947,8.22723308,Cotton,Potassium Chloride,51.56436776,2198.674735,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.782501386,5.85245149,Rice,Diammonium Phosphate,65.47142542,4848.408417,Urea,Ammonium Sulfate,Brand C
+8.316109082,3.801769292,Maize,Diammonium Phosphate,183.8419853,3142.538002,Urea,Urea,Brand B
+9.99745906,6.49300405,Maize,Urea,191.5179116,3473.163195,Urea,Urea,Brand B
+9.969731534,7.445356068,Maize,Potassium Chloride,237.8632361,3722.689493,Urea,Urea,Brand B
+5.99888535,3.453616007,Rice,Potassium Chloride,82.99132991,3666.926119,Urea,Ammonium Sulfate,Brand C
+7.920886737,4.721941914,Maize,Diammonium Phosphate,178.2957709,3043.882972,Urea,Urea,Brand B
+9.502891569,2.09697484,Rice,Potassium Chloride,98.61191111,2715.057164,Urea,Ammonium Sulfate,Brand C
+8.646826516,2.630344146,Maize,Diammonium Phosphate,73.29902989,1215.127857,Urea,Urea,Brand B
+3.226132916,7.130060686,Soybean,Diammonium Phosphate,152.6239485,1088.343381,Diammonium Phosphate,,
+5.054897218,2.632945129,Soybean,Urea,90.83416202,2431.844778,Urea,,
+2.162434736,5.726470453,Rice,Urea,105.4454945,2334.643563,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.586459245,7.381416356,Soybean,Urea,129.388645,2550.780619,Urea,,
+6.45557171,1.961892308,Rice,Diammonium Phosphate,114.8471002,1553.472804,Urea,Ammonium Sulfate,Brand C
+3.05778525,6.105809977,Soybean,Potassium Chloride,71.89782435,3952.673082,Diammonium Phosphate,,
+7.04530616,3.309065053,Soybean,Urea,72.47906121,4427.857659,Urea,,
+6.563154164,9.666341877,Rice,Potassium Chloride,98.31235381,4754.858541,Urea,Ammonium Sulfate,Brand C
+4.223464462,5.35191082,Cotton,Urea,62.63979699,2969.449214,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.02201833,8.253932948,Soybean,Urea,206.6142549,3803.462797,Diammonium Phosphate,,
+7.04415876,5.952038879,Maize,Diammonium Phosphate,121.8316791,4422.204494,Urea,Urea,Brand B
+5.682769308,1.390712796,Cotton,Urea,119.9364919,2673.164444,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.950865526,6.69836238,Rice,Urea,132.9995736,2237.651179,Urea,Ammonium Sulfate,Brand C
+5.68147151,9.56263008,Cotton,Diammonium Phosphate,215.6990686,4746.898223,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.669633503,6.414506381,Wheat,Potassium Chloride,267.6584704,3062.706204,Urea,,
+5.967161549,8.372699735,Wheat,Urea,239.7717331,2989.015546,Urea,,
+6.048441744,8.95785817,Soybean,Diammonium Phosphate,231.8823076,1713.664386,Urea,,
+8.889882424,3.052717948,Soybean,Urea,171.0977964,1432.620058,Urea,,
+4.631345796,2.908403559,Maize,Diammonium Phosphate,223.4513892,4368.42745,Urea,Urea,Brand B
+2.206137056,6.4988289,Cotton,Potassium Chloride,188.190592,3456.532705,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.259044087,4.699256228,Wheat,Potassium Chloride,104.062632,2303.298336,Urea,,
+7.796235301,8.558751726,Soybean,Diammonium Phosphate,102.1470919,1766.94487,Urea,,
+6.582785962,9.100208111,Cotton,Diammonium Phosphate,124.0980017,3221.989121,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.336717913,4.180792414,Soybean,Diammonium Phosphate,277.7006677,3335.677157,Urea,,
+2.916677454,3.131835031,Soybean,Potassium Chloride,186.8537101,1827.974405,Diammonium Phosphate,,
+2.22734328,8.024729637,Wheat,Urea,233.4763443,4405.622992,Urea,,
+1.130901991,3.47325432,Wheat,Potassium Chloride,136.63969,1337.057465,Urea,,
+4.155288029,8.403528867,Soybean,Diammonium Phosphate,151.9289427,2424.372341,Diammonium Phosphate,,
+6.309259182,4.813644283,Rice,Diammonium Phosphate,81.39139466,3721.537655,Urea,Ammonium Sulfate,Brand C
+4.530196406,7.007949094,Soybean,Potassium Chloride,92.82373946,2096.481455,Diammonium Phosphate,,
+4.937274298,1.859817825,Soybean,Diammonium Phosphate,256.8391387,4310.700779,Diammonium Phosphate,,
+9.13742825,6.614733922,Maize,Potassium Chloride,196.2096579,3959.471306,Urea,Urea,Brand B
+4.134299203,5.065909109,Maize,Diammonium Phosphate,134.3831165,4156.091378,Urea,Urea,Brand B
+5.625905402,6.279476169,Maize,Urea,250.7128022,1476.426144,Urea,Urea,Brand B
+8.052877115,2.51212787,Rice,Urea,111.6299764,1562.188512,Urea,Ammonium Sulfate,Brand C
+4.568885041,7.631863704,Rice,Diammonium Phosphate,294.0081747,2145.894951,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.598780302,8.765173698,Soybean,Potassium Chloride,136.2044019,3072.308661,Urea,,
+8.761273379,2.950658201,Maize,Urea,134.3277385,3992.064307,Urea,Urea,Brand B
+9.545685613,1.861431,Rice,Potassium Chloride,127.9779764,4346.123563,Urea,Ammonium Sulfate,Brand C
+2.323661328,1.212747274,Wheat,Diammonium Phosphate,80.52787898,3817.341264,Urea,,
+9.339288626,6.777743504,Soybean,Potassium Chloride,77.78428683,4714.387526,Urea,,
+5.429046638,6.463846325,Cotton,Urea,212.0262586,3954.974038,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.324199495,5.920276714,Soybean,Potassium Chloride,268.7795111,2225.071548,Diammonium Phosphate,,
+5.132221806,3.087523865,Cotton,Potassium Chloride,247.6301276,2060.325137,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.820293178,4.518153963,Maize,Diammonium Phosphate,85.27689851,3784.769801,Urea,Urea,Brand B
+5.433562846,6.350287017,Cotton,Diammonium Phosphate,186.3955304,1771.482275,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.958764493,5.47090173,Maize,Diammonium Phosphate,76.39788649,1370.859243,Urea,Urea,Brand B
+6.700607689,9.890069682,Wheat,Urea,61.3236609,3128.891499,Urea,,
+3.161310569,2.227957773,Cotton,Urea,214.0964648,4286.566279,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.682769953,7.256300986,Soybean,Diammonium Phosphate,183.7880834,1405.51937,Diammonium Phosphate,,
+2.159917497,4.638868913,Maize,Diammonium Phosphate,70.5059213,4167.565295,Urea,Urea,Brand B
+2.152412551,4.853796534,Soybean,Urea,58.7348116,4246.288017,Diammonium Phosphate,,
+2.367124242,7.458379891,Rice,Urea,297.4391034,2929.096,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.249444554,7.231925362,Maize,Urea,57.50533304,1229.24124,Urea,Urea,Brand B
+6.767872703,9.921303943,Cotton,Urea,161.1320633,1698.359405,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.63692076,2.155548605,Maize,Diammonium Phosphate,176.1547562,3829.705101,Urea,Urea,Brand B
+4.11100555,1.936986844,Soybean,Urea,79.32003695,3847.11178,Diammonium Phosphate,,
+9.071095689,7.519049354,Wheat,Diammonium Phosphate,92.26544461,4593.421101,Urea,,
+5.265654762,6.205482253,Maize,Potassium Chloride,137.9512516,3330.744586,Urea,Urea,Brand B
+7.008019647,3.467445999,Cotton,Potassium Chloride,240.4189691,1496.429471,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.550878841,1.714774321,Rice,Urea,176.770606,1485.659622,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.730601169,1.770924246,Wheat,Potassium Chloride,209.4754686,3884.529429,Urea,,
+1.367817546,9.047717872,Rice,Potassium Chloride,296.2936388,1735.13866,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.520415568,2.726805922,Maize,Potassium Chloride,242.0013588,2313.541998,Urea,Urea,Brand B
+3.507313051,3.910344059,Soybean,Urea,158.5903745,2948.848028,Diammonium Phosphate,,
+2.593094358,3.03990762,Soybean,Urea,161.6104804,1099.05951,Diammonium Phosphate,,
+1.798322804,4.194966752,Cotton,Potassium Chloride,204.6930193,1995.276108,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.08572284,1.624814585,Soybean,Diammonium Phosphate,216.3413021,2631.558434,Diammonium Phosphate,,
+5.147008912,5.671538118,Wheat,Potassium Chloride,175.1777315,2118.545274,Urea,,
+2.857003466,1.608513072,Soybean,Urea,211.2153057,1545.48131,Diammonium Phosphate,,
+4.278428749,8.20320857,Cotton,Urea,55.8831236,3912.049031,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.530755438,3.103408737,Maize,Urea,157.405716,4252.590621,Urea,Urea,Brand B
+7.213553458,5.860107231,Maize,Potassium Chloride,119.734519,2029.915905,Urea,Urea,Brand B
+1.353809259,8.920711788,Soybean,Diammonium Phosphate,82.29361131,4097.677978,Diammonium Phosphate,,
+8.19469359,6.857896321,Rice,Urea,74.8866282,2542.214258,Urea,Ammonium Sulfate,Brand C
+6.651103505,5.796620079,Maize,Urea,200.7980414,3026.743163,Urea,Urea,Brand B
+1.735831288,3.919003778,Soybean,Potassium Chloride,180.9001368,4424.0043,Diammonium Phosphate,,
+8.862207617,3.997017218,Cotton,Diammonium Phosphate,113.3960292,3999.814727,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.287851605,7.025382597,Soybean,Potassium Chloride,167.7375147,4220.467405,Urea,,
+1.549701639,9.947254251,Maize,Urea,173.0580788,1547.380666,Urea,Urea,Brand B
+3.491898833,6.956552709,Cotton,Diammonium Phosphate,98.75224511,1278.877703,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.255811518,6.020050756,Soybean,Diammonium Phosphate,213.0232655,4573.618916,Urea,,
+7.734337213,7.575854592,Wheat,Urea,245.2298391,2551.337078,Urea,,
+2.660689174,5.186850511,Cotton,Diammonium Phosphate,247.8658852,2151.518712,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.88414391,1.541281083,Wheat,Diammonium Phosphate,200.6174577,3898.785017,Urea,,
+4.334248925,6.060671343,Rice,Potassium Chloride,177.9096456,4345.662386,Diammonium Phosphate,Ammonium Sulfate,Brand C
+5.360706867,9.618627561,Cotton,Urea,65.25178575,4449.958488,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.564292944,2.577726481,Wheat,Urea,121.9578247,2263.988565,Urea,,
+4.320222756,7.210044017,Maize,Urea,73.31786169,4408.849565,Urea,Urea,Brand B
+5.162812445,2.808403198,Maize,Urea,290.9557902,1163.735777,Urea,Urea,Brand B
+7.727238443,5.82244916,Rice,Urea,83.77003656,1198.645966,Urea,Ammonium Sulfate,Brand C
+1.330148826,1.870088047,Cotton,Diammonium Phosphate,87.94385246,3494.076781,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.271932499,5.053338426,Cotton,Potassium Chloride,272.3941546,1252.425476,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.420146273,7.80546996,Cotton,Urea,285.9820709,2298.436674,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.056861539,4.128143718,Rice,Potassium Chloride,241.4572598,3691.023945,Urea,Ammonium Sulfate,Brand C
+5.605096979,6.98420552,Cotton,Potassium Chloride,51.35123092,2349.067584,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.789021367,8.159049647,Maize,Diammonium Phosphate,50.33656774,1718.399126,Urea,Urea,Brand B
+1.964548102,9.344600375,Wheat,Urea,144.5251924,2125.402487,Urea,,
+5.026711301,3.111778737,Maize,Diammonium Phosphate,85.8488425,2830.301329,Urea,Urea,Brand B
+5.793555398,4.593843242,Maize,Urea,54.59653554,2901.543421,Urea,Urea,Brand B
+3.182234533,2.37174412,Wheat,Diammonium Phosphate,166.0166724,4132.000925,Urea,,
+3.423189079,9.932351519,Maize,Potassium Chloride,285.7654744,4000.612918,Urea,Urea,Brand B
+4.395557468,9.343008711,Rice,Urea,130.9548937,2827.271218,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.18064078,5.859614173,Wheat,Potassium Chloride,215.2851696,4382.669396,Urea,,
+3.89871249,8.578299649,Maize,Potassium Chloride,213.0588383,1456.948554,Urea,Urea,Brand B
+2.903032063,5.688621795,Soybean,Diammonium Phosphate,112.7700259,2021.413401,Diammonium Phosphate,,
+3.94747617,6.612271192,Maize,Urea,212.6063122,4311.905854,Urea,Urea,Brand B
+2.077859186,1.802119889,Rice,Potassium Chloride,103.0834936,2511.976155,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.014745527,7.797433784,Cotton,Diammonium Phosphate,80.50185339,4924.726235,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.342332082,2.149421353,Maize,Urea,225.3458214,2865.013126,Urea,Urea,Brand B
+7.111920872,8.434608672,Cotton,Urea,78.36020428,4167.742492,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.102541147,8.038252789,Soybean,Potassium Chloride,299.2273046,2609.228166,Urea,,
+5.48597979,7.37870228,Maize,Urea,95.86310029,2699.814076,Urea,Urea,Brand B
+1.782282593,1.325443425,Wheat,Potassium Chloride,198.5354657,2531.532589,Urea,,
+5.833958876,3.728155204,Cotton,Urea,152.8436429,3876.302482,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.281570062,3.368013129,Soybean,Diammonium Phosphate,81.5966056,3190.071536,Urea,,
+7.708955268,4.241227667,Wheat,Potassium Chloride,56.96097689,4775.112445,Urea,,
+4.884935916,1.788784721,Wheat,Potassium Chloride,205.6830706,2003.561266,Urea,,
+2.148222725,9.432620407,Wheat,Urea,251.6893909,1402.250928,Urea,,
+3.553983152,5.984220166,Wheat,Urea,260.5039154,2573.04594,Urea,,
+4.267740668,3.749718796,Maize,Potassium Chloride,170.6783683,3466.850831,Urea,Urea,Brand B
+6.813255172,4.572833654,Maize,Urea,244.3638668,4443.195748,Urea,Urea,Brand B
+6.137004742,5.024822865,Maize,Diammonium Phosphate,218.2117834,2384.787547,Urea,Urea,Brand B
+4.204870533,6.405349,Soybean,Urea,231.0636319,3615.147004,Diammonium Phosphate,,
+9.878637239,5.641114849,Soybean,Diammonium Phosphate,173.1497513,2400.794724,Urea,,
+6.451973374,9.274527759,Soybean,Diammonium Phosphate,208.3529351,3468.878332,Urea,,
+3.135041126,5.472671346,Rice,Diammonium Phosphate,251.3814784,4539.231788,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.916042254,9.929422133,Soybean,Diammonium Phosphate,149.4710439,1925.430569,Diammonium Phosphate,,
+2.375732253,8.66282462,Maize,Diammonium Phosphate,251.4947252,2616.966568,Urea,Urea,Brand B
+3.213619555,2.876594629,Maize,Urea,198.0042107,4973.060786,Urea,Urea,Brand B
+2.446132359,9.375356932,Rice,Diammonium Phosphate,91.47525609,4474.228113,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.679103216,2.047297581,Rice,Urea,56.17103931,3258.559432,Diammonium Phosphate,Ammonium Sulfate,Brand C
+3.565856518,8.357047376,Soybean,Diammonium Phosphate,140.6884001,3066.510367,Diammonium Phosphate,,
+2.560362358,4.425609641,Cotton,Potassium Chloride,186.6740821,2138.401529,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.070888822,8.901768884,Rice,Diammonium Phosphate,259.9550881,3068.837711,Urea,Ammonium Sulfate,Brand C
+1.722103711,8.812510211,Wheat,Potassium Chloride,81.87142004,4392.725993,Urea,,
+5.720602506,8.253328601,Maize,Diammonium Phosphate,250.0515869,3740.698053,Urea,Urea,Brand B
+4.693571443,8.110273927,Wheat,Diammonium Phosphate,265.7522615,2160.176113,Urea,,
+9.841407552,3.742112252,Maize,Diammonium Phosphate,87.67187175,1805.855684,Urea,Urea,Brand B
+2.00835012,1.728273547,Maize,Potassium Chloride,262.8985798,2060.834148,Urea,Urea,Brand B
+4.580700391,4.626821609,Rice,Potassium Chloride,297.863392,1679.036806,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.725233899,2.561720635,Rice,Diammonium Phosphate,231.7097078,1382.562784,Urea,Ammonium Sulfate,Brand C
+8.789564133,7.2545598,Wheat,Urea,246.1924205,2676.544698,Urea,,
+8.353648639,4.114897539,Maize,Diammonium Phosphate,298.6038169,1453.198418,Urea,Urea,Brand B
+3.321125443,9.780491808,Wheat,Potassium Chloride,201.3703126,1687.650231,Urea,,
+2.537988287,6.768748696,Cotton,Diammonium Phosphate,126.9715955,3189.298737,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.017788979,8.402325073,Wheat,Potassium Chloride,259.3827085,1658.397095,Urea,,
+9.364383902,2.192722055,Soybean,Potassium Chloride,203.6214444,1255.51907,Urea,,
+6.010866037,8.75813034,Wheat,Potassium Chloride,195.2988559,2269.5554,Urea,,
+6.144514205,9.304814715,Soybean,Diammonium Phosphate,113.4088889,1881.276394,Urea,,
+3.519811843,5.383557269,Soybean,Potassium Chloride,239.0835674,3061.220752,Diammonium Phosphate,,
+7.925436399,6.45627644,Soybean,Potassium Chloride,70.41681897,1409.468338,Urea,,
+2.683393737,7.883288208,Cotton,Diammonium Phosphate,281.0717677,4007.083151,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.913113128,2.573547645,Wheat,Potassium Chloride,131.4558652,4624.934078,Urea,,
+4.828927948,5.523094688,Wheat,Diammonium Phosphate,81.9436632,3973.740696,Urea,,
+5.568493408,4.58796725,Cotton,Potassium Chloride,160.5916333,3131.30815,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.181687592,2.317365929,Maize,Urea,60.61747731,4442.671287,Urea,Urea,Brand B
+2.033531423,4.307809801,Rice,Urea,221.1565486,3779.673519,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.495580382,1.613550784,Wheat,Potassium Chloride,275.6763776,1042.20449,Urea,,
+3.597674979,1.232307163,Rice,Urea,259.3157518,2576.360611,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.231143993,2.216496602,Cotton,Diammonium Phosphate,81.84236836,4403.807598,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.389264437,9.668036004,Maize,Urea,81.56778428,2383.435432,Urea,Urea,Brand B
+5.330260917,5.945765823,Maize,Potassium Chloride,253.3586206,1140.860694,Urea,Urea,Brand B
+5.793304893,9.69239945,Maize,Potassium Chloride,281.0635687,3984.718554,Urea,Urea,Brand B
+1.466411831,4.892480905,Cotton,Diammonium Phosphate,165.1674575,4208.153081,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.029438504,3.806345198,Soybean,Potassium Chloride,174.7427792,1642.37478,Diammonium Phosphate,,
+2.209732092,5.555276766,Soybean,Diammonium Phosphate,129.5655103,3149.361987,Diammonium Phosphate,,
+1.570374734,4.955605198,Rice,Urea,273.5662796,1767.821756,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.909642092,1.950982158,Soybean,Urea,211.2257263,3876.937676,Urea,,
+3.901184605,6.767436832,Soybean,Diammonium Phosphate,122.0628943,2086.201821,Diammonium Phosphate,,
+8.288870013,2.944343643,Maize,Diammonium Phosphate,124.6957178,2264.86049,Urea,Urea,Brand B
+3.291765893,6.576291594,Maize,Potassium Chloride,272.8000183,4379.883415,Urea,Urea,Brand B
+7.1335245,6.851809832,Rice,Urea,53.40850598,2905.289409,Urea,Ammonium Sulfate,Brand C
+7.842050739,2.368223678,Wheat,Diammonium Phosphate,130.6816432,3679.017805,Urea,,
+6.360748665,1.552146644,Rice,Urea,188.5891703,2609.492203,Urea,Ammonium Sulfate,Brand C
+5.244185697,8.026854275,Rice,Diammonium Phosphate,87.05436552,2192.027429,Urea,Ammonium Sulfate,Brand C
+4.706568227,5.138203814,Cotton,Urea,73.02468855,3501.912242,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.139814399,1.52347416,Cotton,Potassium Chloride,253.8190828,1619.430296,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.365762298,9.953796855,Rice,Urea,273.6010972,2491.999342,Urea,Ammonium Sulfate,Brand C
+8.47557467,1.520025049,Rice,Urea,255.9016052,1836.14815,Urea,Ammonium Sulfate,Brand C
+9.685242196,7.25531706,Rice,Urea,274.6969724,3783.179868,Urea,Ammonium Sulfate,Brand C
+2.118675011,9.853110327,Soybean,Urea,188.2779928,4776.835353,Diammonium Phosphate,,
+7.577807277,3.152620938,Cotton,Urea,253.0645302,4982.043872,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.445064111,2.280244318,Rice,Potassium Chloride,146.0106596,2801.107242,Urea,Ammonium Sulfate,Brand C
+2.631097595,2.092464455,Maize,Diammonium Phosphate,216.5669654,2010.121559,Urea,Urea,Brand B
+1.598466406,3.729476328,Maize,Urea,297.2088828,2771.317482,Urea,Urea,Brand B
+7.670085844,1.909412299,Soybean,Potassium Chloride,106.431931,4389.07764,Urea,,
+6.170258019,7.229452075,Soybean,Urea,147.4749366,1824.022714,Urea,,
+8.576458991,1.560626183,Wheat,Urea,170.0118443,4808.382607,Urea,,
+2.25795139,5.584799153,Wheat,Diammonium Phosphate,84.50387176,2367.463075,Urea,,
+8.157405807,9.970271685,Wheat,Urea,70.25965262,4943.214638,Urea,,
+2.81464588,8.325732426,Soybean,Potassium Chloride,257.4307166,4354.43555,Diammonium Phosphate,,
+2.472903486,6.536974944,Soybean,Potassium Chloride,294.1985932,4234.282137,Diammonium Phosphate,,
+2.478392181,3.756282587,Soybean,Diammonium Phosphate,151.181266,2271.618695,Diammonium Phosphate,,
+8.331172482,6.615062527,Maize,Urea,71.91245905,1035.108848,Urea,Urea,Brand B
+6.986774986,5.743373175,Soybean,Potassium Chloride,66.45294017,2528.531635,Urea,,
+5.707588823,4.834750455,Maize,Urea,272.8295516,2207.237479,Urea,Urea,Brand B
+4.229474357,2.176393391,Wheat,Urea,165.9535624,1149.587962,Urea,,
+8.894804867,8.979437937,Wheat,Urea,130.0068291,3021.461026,Urea,,
+4.532005967,5.048061839,Wheat,Diammonium Phosphate,169.1153178,2612.125245,Urea,,
+8.349394955,2.751602606,Rice,Urea,129.5760237,3538.225871,Urea,Ammonium Sulfate,Brand C
+4.952214177,4.309834158,Rice,Potassium Chloride,172.2589438,3484.745289,Diammonium Phosphate,Ammonium Sulfate,Brand C
+4.392499865,4.727167773,Cotton,Urea,264.8890992,1482.986544,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.164118071,8.44784106,Cotton,Potassium Chloride,198.0753428,4907.862185,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.712400867,7.602529425,Cotton,Urea,223.6634432,1747.725718,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.728484422,7.923744043,Rice,Potassium Chloride,141.1676691,2781.096099,Urea,Ammonium Sulfate,Brand C
+5.524483511,1.09928138,Rice,Potassium Chloride,234.6264696,2952.470174,Urea,Ammonium Sulfate,Brand C
+3.089914256,4.745385984,Cotton,Urea,216.6542712,4252.251189,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.096171159,5.332097365,Cotton,Urea,79.89049944,1396.918384,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.455020992,1.172730491,Soybean,Potassium Chloride,193.1607133,2714.577117,Diammonium Phosphate,,
+5.89197575,3.338318879,Cotton,Diammonium Phosphate,114.1858741,3514.008681,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.158248999,7.842608408,Soybean,Urea,251.0239174,1860.622486,Urea,,
+6.618141963,2.233987352,Maize,Diammonium Phosphate,156.4844271,3509.871595,Urea,Urea,Brand B
+2.052082366,5.817791183,Rice,Urea,298.6710413,4694.65935,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.458489113,2.936816848,Cotton,Urea,73.12510948,4990.072525,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.649372478,1.109086972,Rice,Urea,245.0869657,1129.804307,Urea,Ammonium Sulfate,Brand C
+4.014150532,3.170813118,Rice,Urea,218.4254334,1942.352913,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.253448654,9.782863794,Rice,Diammonium Phosphate,241.8747076,2241.228463,Diammonium Phosphate,Ammonium Sulfate,Brand C
+8.146226703,8.213834007,Maize,Urea,126.8824489,2596.504402,Urea,Urea,Brand B
+6.580654803,9.636189799,Wheat,Potassium Chloride,173.0136223,1969.02863,Urea,,
+5.801149828,5.390686395,Cotton,Potassium Chloride,249.1271299,1813.951978,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.045033247,1.987625788,Wheat,Diammonium Phosphate,108.1353329,4818.21537,Urea,,
+8.097374901,5.931635401,Wheat,Urea,106.5082992,4674.086411,Urea,,
+2.365073918,5.089396011,Wheat,Potassium Chloride,187.7627383,1187.970004,Urea,,
+3.80549861,8.599213745,Rice,Diammonium Phosphate,180.8908949,2355.252086,Diammonium Phosphate,Ammonium Sulfate,Brand C
+3.236402258,1.882743227,Soybean,Urea,120.5656176,2620.594215,Diammonium Phosphate,,
+7.695516633,5.394170233,Rice,Potassium Chloride,124.5189126,1956.058139,Urea,Ammonium Sulfate,Brand C
+1.301791913,2.350437982,Rice,Potassium Chloride,119.4612908,3515.491588,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.129007164,3.922083342,Wheat,Diammonium Phosphate,242.8780155,3561.522987,Urea,,
+7.862128172,7.636213696,Rice,Urea,212.9752164,4402.016913,Urea,Ammonium Sulfate,Brand C
+8.890890731,5.284163164,Wheat,Urea,258.1042959,3963.477074,Urea,,
+4.078735738,4.382994566,Soybean,Potassium Chloride,293.8682571,3170.293308,Diammonium Phosphate,,
+8.391315742,4.550286507,Cotton,Potassium Chloride,168.5410741,3614.34708,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.995685633,5.135020916,Wheat,Potassium Chloride,66.67347035,2095.955126,Urea,,
+8.618070626,8.065148895,Soybean,Urea,62.0230776,3372.22476,Urea,,
+2.147397961,9.0287622,Cotton,Diammonium Phosphate,123.9162598,2956.909019,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.575585615,9.598012179,Maize,Diammonium Phosphate,283.1361473,1533.377869,Urea,Urea,Brand B
+8.175658292,8.082130476,Wheat,Urea,180.8032637,1970.177106,Urea,,
+2.349256846,3.838662062,Wheat,Diammonium Phosphate,117.946629,2166.773803,Urea,,
+3.063262557,7.193212355,Maize,Potassium Chloride,149.7916986,4697.238268,Urea,Urea,Brand B
+7.500273116,4.938428116,Maize,Diammonium Phosphate,199.6487769,1921.546558,Urea,Urea,Brand B
+7.480328829,3.292035598,Wheat,Diammonium Phosphate,213.2374145,2156.975611,Urea,,
+6.770328696,8.567844215,Maize,Diammonium Phosphate,88.47987745,2477.41652,Urea,Urea,Brand B
+7.245536,1.345837141,Rice,Potassium Chloride,294.2579191,3654.970955,Urea,Ammonium Sulfate,Brand C
+5.88451999,9.115857929,Cotton,Urea,186.1930567,1472.95357,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.26619153,5.153297182,Cotton,Potassium Chloride,83.92207945,4815.78085,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.111263942,6.734813291,Cotton,Urea,273.4088133,4462.28488,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.634379451,6.9341853,Rice,Urea,68.65960777,3308.864292,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.176055052,9.056059666,Maize,Urea,276.9338583,3696.15147,Urea,Urea,Brand B
+6.250526153,6.73002714,Soybean,Diammonium Phosphate,299.1414141,1066.641885,Urea,,
+4.607662751,6.525402263,Maize,Diammonium Phosphate,225.1079498,2355.779101,Urea,Urea,Brand B
+5.158052233,1.599868365,Wheat,Urea,242.6118053,4182.640923,Urea,,
+9.525550057,5.665672198,Cotton,Urea,134.3257091,1309.931895,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.380162628,2.351521007,Maize,Diammonium Phosphate,285.3942132,2129.255337,Urea,Urea,Brand B
+6.276068488,7.636903918,Soybean,Potassium Chloride,182.4284915,3341.187313,Urea,,
+5.55299811,5.609997287,Wheat,Urea,233.0971116,2025.652111,Urea,,
+6.503088119,7.122050013,Rice,Potassium Chloride,281.026929,4735.911897,Urea,Ammonium Sulfate,Brand C
+1.162991654,1.375056105,Rice,Diammonium Phosphate,293.794994,1524.234523,Diammonium Phosphate,Ammonium Sulfate,Brand C
+8.84911518,1.763128144,Soybean,Urea,258.3010891,4189.577432,Urea,,
+9.389064542,7.446910493,Wheat,Potassium Chloride,125.7543767,3031.794768,Urea,,
+6.086198652,1.648759024,Cotton,Potassium Chloride,291.6368791,4001.323103,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.269857415,1.64131055,Maize,Potassium Chloride,207.0298828,2242.861313,Urea,Urea,Brand B
+9.302494431,1.108976277,Wheat,Diammonium Phosphate,282.6606191,3057.958409,Urea,,
+7.365147709,9.608512585,Rice,Diammonium Phosphate,219.0262565,4427.341399,Urea,Ammonium Sulfate,Brand C
+2.372851386,7.637575235,Soybean,Potassium Chloride,126.8097405,2867.512396,Diammonium Phosphate,,
+6.186595242,4.179262677,Soybean,Potassium Chloride,142.506131,2438.879448,Urea,,
+6.460435417,3.668820232,Maize,Diammonium Phosphate,187.6179443,3144.621545,Urea,Urea,Brand B
+4.817176042,4.147329068,Soybean,Potassium Chloride,247.5037104,3869.451012,Diammonium Phosphate,,
+7.627998121,7.971881781,Soybean,Potassium Chloride,129.4956378,2774.253382,Urea,,
+9.409303133,6.9523355,Wheat,Diammonium Phosphate,194.9327915,4755.507901,Urea,,
+9.330116616,2.666760111,Cotton,Potassium Chloride,136.4062484,2179.783296,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.057554343,2.566984018,Maize,Potassium Chloride,253.9423512,2901.854425,Urea,Urea,Brand B
+2.019142413,1.885560847,Wheat,Potassium Chloride,166.6820234,4027.710637,Urea,,
+9.863570791,6.942724477,Cotton,Diammonium Phosphate,69.18070671,3756.484362,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.550082778,7.87935396,Wheat,Potassium Chloride,91.51313037,4454.56421,Urea,,
+2.121964131,3.385417855,Wheat,Diammonium Phosphate,65.2761669,4987.236723,Urea,,
+9.287576944,1.188504649,Soybean,Diammonium Phosphate,174.8257365,2707.433315,Urea,,
+8.829067259,1.739545007,Cotton,Urea,76.58432434,1444.603519,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.669542514,9.710740314,Maize,Urea,78.53499233,1121.663523,Urea,Urea,Brand B
+6.321478922,3.659002997,Maize,Potassium Chloride,285.262065,3907.507625,Urea,Urea,Brand B
+4.591024335,7.923008331,Cotton,Diammonium Phosphate,268.163768,4496.054685,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.492854749,6.62197212,Soybean,Urea,163.0216492,1882.850344,Diammonium Phosphate,,
+4.016775175,4.437456757,Rice,Potassium Chloride,296.4513302,1633.792149,Diammonium Phosphate,Ammonium Sulfate,Brand C
+8.225681037,2.85118536,Wheat,Urea,50.04663204,1248.820366,Urea,,
+1.041688207,2.092477763,Soybean,Urea,203.4948641,4290.811687,Diammonium Phosphate,,
+4.001492545,6.535116712,Cotton,Diammonium Phosphate,204.1070443,2245.52776,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.583518242,7.971704026,Wheat,Diammonium Phosphate,164.360764,2606.787571,Urea,,
+5.836560426,6.795138282,Maize,Urea,149.2369932,3011.000766,Urea,Urea,Brand B
+9.278700548,5.772719199,Rice,Urea,163.8457839,4357.812937,Urea,Ammonium Sulfate,Brand C
+4.117113949,1.377561011,Maize,Diammonium Phosphate,153.740109,3603.332886,Urea,Urea,Brand B
+4.122578817,9.716398998,Cotton,Potassium Chloride,232.6231194,3460.258519,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.637511233,8.188427725,Wheat,Diammonium Phosphate,83.83885874,1702.6884,Urea,,
+5.069961468,3.63539833,Cotton,Urea,99.40980515,3052.759567,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.021443406,9.819732964,Wheat,Potassium Chloride,95.1295571,3861.524069,Urea,,
+5.071955645,6.416934307,Soybean,Urea,115.6176463,4893.043532,Urea,,
+2.267713183,6.241803924,Rice,Potassium Chloride,181.3146047,1805.625237,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.587482879,7.732658615,Soybean,Urea,77.80218683,1038.173412,Diammonium Phosphate,,
+5.485309955,8.305928093,Soybean,Potassium Chloride,267.0423238,1301.205734,Urea,,
+4.770329046,6.908307466,Cotton,Potassium Chloride,124.3403828,2503.409861,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.23361311,2.152861717,Rice,Urea,90.63449687,4282.178591,Urea,Ammonium Sulfate,Brand C
+4.261545092,4.044407554,Wheat,Potassium Chloride,218.9053274,1028.568327,Urea,,
+6.225295153,9.352752763,Wheat,Diammonium Phosphate,59.52157515,2826.922372,Urea,,
+6.690378591,3.021540507,Maize,Urea,204.9921412,2316.922461,Urea,Urea,Brand B
+1.117850109,4.349503215,Wheat,Diammonium Phosphate,224.5496077,1209.92684,Urea,,
+6.971836348,4.888691946,Cotton,Urea,103.7291328,2800.945147,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.602323702,4.954644907,Soybean,Potassium Chloride,60.49101836,2018.994829,Diammonium Phosphate,,
+9.649632857,6.516456242,Soybean,Potassium Chloride,140.9113397,2407.539337,Urea,,
+2.33796455,9.48768254,Soybean,Potassium Chloride,74.64855756,3822.461219,Diammonium Phosphate,,
+4.731617114,3.166234406,Rice,Urea,79.11946242,3086.203936,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.768147013,2.093512387,Wheat,Diammonium Phosphate,113.5653079,1498.589716,Urea,,
+9.971868267,2.777234409,Cotton,Diammonium Phosphate,123.8669812,4845.658162,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.519755093,8.982324102,Rice,Urea,182.4925853,3543.643063,Urea,Ammonium Sulfate,Brand C
+6.358465156,6.812297314,Maize,Urea,219.5979714,4063.473703,Urea,Urea,Brand B
+1.603688296,3.573161103,Cotton,Diammonium Phosphate,198.1927352,1316.8526,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.749644234,8.343522451,Cotton,Diammonium Phosphate,87.09008432,1188.233518,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.889150338,8.752329967,Cotton,Diammonium Phosphate,93.02150811,1077.792201,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.082488605,8.618629048,Soybean,Diammonium Phosphate,269.6923124,1755.176111,Urea,,
+2.846256764,9.270338803,Cotton,Urea,189.5880788,2657.633591,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.716189486,3.270169182,Wheat,Urea,267.4844582,4743.304534,Urea,,
+1.328947011,7.795377359,Cotton,Potassium Chloride,142.8866278,2828.238637,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.248602506,5.144855475,Soybean,Diammonium Phosphate,203.6000019,2161.020421,Urea,,
+6.083570199,8.577986976,Cotton,Potassium Chloride,180.915854,3247.741014,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.591377755,7.556416094,Maize,Urea,129.7808725,1447.738313,Urea,Urea,Brand B
+7.97974855,7.988027018,Maize,Urea,167.478843,3438.023564,Urea,Urea,Brand B
+5.079599513,6.905456539,Soybean,Potassium Chloride,175.6227192,3273.727817,Urea,,
+5.719512424,2.596858925,Wheat,Diammonium Phosphate,100.1927437,4167.972134,Urea,,
+4.966864722,5.90524227,Wheat,Diammonium Phosphate,128.7525931,4946.750446,Urea,,
+4.606867548,9.862027656,Rice,Diammonium Phosphate,247.8524376,2003.493887,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.036762982,9.436492598,Soybean,Diammonium Phosphate,278.9470599,3038.625803,Urea,,
+2.397162213,1.388563622,Cotton,Potassium Chloride,139.9485234,4635.461625,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.637353174,2.483333342,Soybean,Potassium Chloride,126.7430706,4140.759538,Diammonium Phosphate,,
+8.756070589,2.185558961,Rice,Urea,98.79929114,2949.625212,Urea,Ammonium Sulfate,Brand C
+9.515039159,7.53381919,Soybean,Diammonium Phosphate,219.6227922,4781.486598,Urea,,
+4.359783847,8.360067969,Soybean,Diammonium Phosphate,130.7749254,1228.946774,Diammonium Phosphate,,
+3.436702058,2.921602297,Rice,Diammonium Phosphate,296.9373848,4723.994479,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.795995889,5.552674237,Wheat,Potassium Chloride,131.4212005,1202.02957,Urea,,
+4.67860754,8.566327252,Cotton,Diammonium Phosphate,148.5340117,3189.218976,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.228477201,7.595213903,Rice,Potassium Chloride,200.8335491,4561.763792,Diammonium Phosphate,Ammonium Sulfate,Brand C
+2.405373376,5.880134849,Maize,Diammonium Phosphate,250.4210733,2050.883774,Urea,Urea,Brand B
+7.44375006,6.313129214,Wheat,Diammonium Phosphate,167.3796663,2888.993996,Urea,,
+6.930315477,5.575244922,Maize,Urea,155.6640084,2297.315517,Urea,Urea,Brand B
+1.243863933,3.677936062,Wheat,Diammonium Phosphate,298.9094584,4808.575668,Urea,,
+2.997749457,6.085197936,Cotton,Diammonium Phosphate,52.62341028,4294.582379,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.079673169,7.199967718,Cotton,Urea,273.7663222,3836.006045,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.047034692,8.859906243,Soybean,Potassium Chloride,87.28520648,3350.507946,Urea,,
+1.17739484,6.726622186,Maize,Potassium Chloride,246.4813191,4282.367157,Urea,Urea,Brand B
+1.936977238,7.850093833,Wheat,Diammonium Phosphate,204.48289,2569.068166,Urea,,
+8.199244768,2.440644715,Cotton,Potassium Chloride,135.4618214,2790.20742,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.606901958,5.15401727,Rice,Diammonium Phosphate,268.4687389,3920.006884,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.874714971,1.083984578,Cotton,Urea,53.226807,2431.019053,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.143645029,3.220109781,Rice,Urea,106.672663,1255.603768,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.894972535,7.538155436,Wheat,Diammonium Phosphate,191.7231991,1297.338436,Urea,,
+3.188549719,9.926289562,Cotton,Urea,137.885565,1461.451205,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.500402387,1.892602896,Cotton,Urea,202.5943738,4478.725293,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.701268213,4.613448843,Wheat,Diammonium Phosphate,56.02754835,2888.905703,Urea,,
+8.471978781,8.200638718,Cotton,Diammonium Phosphate,79.11473262,3851.529477,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.574651767,2.836320712,Rice,Urea,81.77406005,2571.637342,Diammonium Phosphate,Ammonium Sulfate,Brand C
+7.012766229,5.995764544,Cotton,Potassium Chloride,97.32091148,2034.84379,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.844858659,7.597641664,Maize,Potassium Chloride,164.8328602,2388.76867,Urea,Urea,Brand B
+3.638329572,6.543869052,Soybean,Diammonium Phosphate,238.0321749,4176.729381,Diammonium Phosphate,,
+9.067022367,2.692222612,Rice,Diammonium Phosphate,276.3847095,3500.8645,Urea,Ammonium Sulfate,Brand C
+1.117017312,4.198461118,Maize,Potassium Chloride,258.8431326,4750.55912,Urea,Urea,Brand B
+1.769576778,8.05412606,Wheat,Urea,99.22196794,3718.819114,Urea,,
+2.870976296,5.988038627,Rice,Potassium Chloride,160.2876381,3280.726527,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.238789835,1.047066522,Soybean,Potassium Chloride,99.85289944,3440.784036,Diammonium Phosphate,,
+2.632918916,7.84891684,Soybean,Potassium Chloride,116.1179542,4769.485758,Diammonium Phosphate,,
+6.247374049,1.317802194,Wheat,Potassium Chloride,175.8867454,4152.803719,Urea,,
+4.792820955,7.711604045,Wheat,Diammonium Phosphate,67.02725618,1096.164949,Urea,,
+9.0340454,2.822325041,Rice,Diammonium Phosphate,104.5435824,3136.558785,Urea,Ammonium Sulfate,Brand C
+8.356992056,9.622661321,Cotton,Urea,283.8445403,3753.353646,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.076356165,4.311466762,Wheat,Urea,166.5290732,3994.793914,Urea,,
+3.334810901,3.942384547,Cotton,Urea,161.3466315,1852.568477,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.417231674,2.339992453,Maize,Urea,53.64178869,4468.709418,Urea,Urea,Brand B
+6.312654483,3.750437939,Soybean,Potassium Chloride,111.8499368,4823.372589,Urea,,
+3.412572767,8.889856856,Cotton,Diammonium Phosphate,266.573109,1946.861223,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.617340171,9.967009039,Soybean,Diammonium Phosphate,91.15710706,4530.46183,Urea,,
+4.68470487,4.314785775,Cotton,Urea,153.7812349,1387.91505,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.968424628,5.037495679,Maize,Urea,53.58272647,1222.827344,Urea,Urea,Brand B
+4.925138762,7.498638444,Wheat,Potassium Chloride,169.5838704,1516.8952,Urea,,
+3.650191836,8.975762024,Maize,Potassium Chloride,55.25527668,1230.964318,Urea,Urea,Brand B
+9.536079763,6.337399008,Wheat,Urea,254.9023883,4380.048949,Urea,,
+7.872452147,4.523731284,Wheat,Diammonium Phosphate,256.2134419,1236.200578,Urea,,
+2.261018582,4.713596568,Soybean,Diammonium Phosphate,246.9355471,2086.656765,Diammonium Phosphate,,
+8.816211783,7.260563318,Maize,Diammonium Phosphate,120.8410172,1415.025374,Urea,Urea,Brand B
+5.386880784,1.028964372,Cotton,Urea,259.3093046,2181.688145,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.050970042,6.576304037,Maize,Diammonium Phosphate,185.7495332,1362.23787,Urea,Urea,Brand B
+8.198697304,4.199437094,Soybean,Potassium Chloride,143.4520272,3672.013003,Urea,,
+4.82692154,8.147775981,Wheat,Potassium Chloride,206.3324899,1533.307265,Urea,,
+1.202223775,1.836915758,Soybean,Urea,53.08526152,4407.383703,Diammonium Phosphate,,
+3.418096234,6.293820403,Rice,Potassium Chloride,85.7402194,4268.764203,Diammonium Phosphate,Ammonium Sulfate,Brand C
+5.874707932,5.328756009,Rice,Urea,235.5733845,1054.646742,Urea,Ammonium Sulfate,Brand C
+6.701303978,6.780929733,Cotton,Diammonium Phosphate,111.0404022,4582.905422,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.320989169,1.58368235,Soybean,Diammonium Phosphate,199.5022793,1115.777267,Diammonium Phosphate,,
+2.254204667,6.219854087,Cotton,Diammonium Phosphate,146.2756507,1958.58314,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.514372131,6.053361292,Cotton,Potassium Chloride,263.7014447,1129.556551,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+9.859619626,6.04594085,Rice,Urea,288.1038265,2343.373948,Urea,Ammonium Sulfate,Brand C
+5.731211641,6.431388999,Cotton,Diammonium Phosphate,270.8911821,3055.466103,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.545113573,7.088211435,Rice,Urea,117.6549987,4186.579476,Diammonium Phosphate,Ammonium Sulfate,Brand C
+3.450765939,8.244900997,Wheat,Diammonium Phosphate,98.54071726,2351.926202,Urea,,
+1.165516089,3.428386481,Soybean,Potassium Chloride,168.6087234,3821.960099,Diammonium Phosphate,,
+9.228689259,8.425444692,Cotton,Potassium Chloride,51.83353771,1750.017828,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.059759746,5.48430114,Rice,Urea,56.45234822,4002.393827,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.18864828,1.693524512,Maize,Potassium Chloride,188.3226599,1943.986424,Urea,Urea,Brand B
+3.466496986,1.526958363,Cotton,Potassium Chloride,180.112351,1574.179024,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+5.987602023,4.008144868,Wheat,Urea,298.6454973,1741.635401,Urea,,
+6.862783495,8.064072794,Wheat,Diammonium Phosphate,100.4604588,1728.252516,Urea,,
+8.467676233,7.369128413,Maize,Potassium Chloride,114.5259823,3051.451518,Urea,Urea,Brand B
+2.857791446,8.097534682,Rice,Urea,78.38516058,4379.190325,Diammonium Phosphate,Ammonium Sulfate,Brand C
+1.098962458,5.655421508,Cotton,Potassium Chloride,279.3857524,1318.420308,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.231970671,4.961790982,Rice,Potassium Chloride,244.4528111,3827.825274,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.100167777,2.32707274,Wheat,Potassium Chloride,255.5847779,3617.385839,Urea,,
+8.865010698,3.953734782,Rice,Potassium Chloride,275.690947,4490.079807,Urea,Ammonium Sulfate,Brand C
+6.37671792,4.906174296,Wheat,Urea,181.2249967,1976.590242,Urea,,
+6.404651744,1.797403867,Rice,Urea,162.7982979,2800.439435,Urea,Ammonium Sulfate,Brand C
+6.985330071,2.985507574,Maize,Urea,132.5978684,4703.309498,Urea,Urea,Brand B
+2.578341508,6.384027647,Soybean,Potassium Chloride,197.3036536,3639.973801,Diammonium Phosphate,,
+9.229707513,7.620968028,Maize,Potassium Chloride,163.5695992,2555.073651,Urea,Urea,Brand B
+4.768934724,9.985127603,Maize,Potassium Chloride,162.8913967,1525.649531,Urea,Urea,Brand B
+4.448246754,9.398019982,Soybean,Urea,284.2319659,2049.940032,Diammonium Phosphate,,
+5.670259348,6.783086796,Soybean,Potassium Chloride,296.0078786,3324.86191,Urea,,
+1.422693701,4.79123248,Cotton,Diammonium Phosphate,249.1210973,3872.67179,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.496550319,6.725596282,Cotton,Potassium Chloride,239.1895226,1497.687547,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+7.642302548,8.070864563,Maize,Diammonium Phosphate,220.1395404,3398.38904,Urea,Urea,Brand B
+1.745188011,2.065025718,Maize,Potassium Chloride,91.51871308,3201.405115,Urea,Urea,Brand B
+6.428368985,4.689144007,Wheat,Urea,64.77645522,3055.821787,Urea,,
+3.208141987,8.558220571,Wheat,Potassium Chloride,222.6815788,3760.492471,Urea,,
+4.503660526,4.454496567,Cotton,Diammonium Phosphate,232.1965556,4349.79838,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+3.598243631,6.146850441,Cotton,Diammonium Phosphate,61.74324777,2291.958733,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+4.201054448,6.289924248,Wheat,Potassium Chloride,282.0129376,4556.04876,Urea,,
+7.471413147,2.660286278,Wheat,Diammonium Phosphate,72.78515986,1642.53445,Urea,,
+3.674095441,4.260118975,Rice,Diammonium Phosphate,121.4751334,1692.095479,Diammonium Phosphate,Ammonium Sulfate,Brand C
+6.097641763,4.010601599,Rice,Urea,218.0974532,2067.088254,Urea,Ammonium Sulfate,Brand C
+5.28445362,1.235770377,Wheat,Potassium Chloride,92.4681486,1478.123478,Urea,,
+6.973040488,1.217725875,Rice,Potassium Chloride,63.85397211,1921.276899,Urea,Ammonium Sulfate,Brand C
+9.431467654,8.485273393,Soybean,Potassium Chloride,132.7866223,1425.647052,Urea,,
+7.593148875,3.45763729,Cotton,Diammonium Phosphate,241.4928937,4287.009668,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+2.934463407,5.662708896,Cotton,Potassium Chloride,153.4196697,1555.875968,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+1.280648216,3.688530162,Wheat,Potassium Chloride,213.2432305,3989.19023,Urea,,
+3.360376399,9.466113206,Maize,Urea,194.9047743,1191.655472,Urea,Urea,Brand B
+6.355701376,3.33367083,Wheat,Urea,55.55462051,4794.08131,Urea,,
+1.462832321,4.866911315,Rice,Urea,297.1349968,3844.64035,Diammonium Phosphate,Ammonium Sulfate,Brand C
+5.467296225,8.854572254,Maize,Diammonium Phosphate,60.3570222,1027.186194,Urea,Urea,Brand B
+6.37158564,8.577402101,Rice,Potassium Chloride,291.9506844,4055.426001,Urea,Ammonium Sulfate,Brand C
+4.008195017,2.674912761,Soybean,Urea,187.4660446,3056.327683,Diammonium Phosphate,,
+7.938209834,8.223789788,Rice,Urea,290.7897568,4117.460681,Urea,Ammonium Sulfate,Brand C
+1.959384278,5.123681981,Soybean,Urea,78.68839985,3089.987236,Diammonium Phosphate,,
+1.676240036,5.346719849,Soybean,Potassium Chloride,172.6021298,3564.099431,Diammonium Phosphate,,
+7.553698806,2.201319752,Rice,Potassium Chloride,92.37602297,4145.326622,Urea,Ammonium Sulfate,Brand C
+5.459421846,1.725413624,Rice,Potassium Chloride,62.74371926,2620.432218,Urea,Ammonium Sulfate,Brand C
+7.195621568,7.551453763,Soybean,Diammonium Phosphate,204.3822788,1010.832599,Urea,,
+4.913446047,5.468150371,Maize,Diammonium Phosphate,101.9458552,4399.785984,Urea,Urea,Brand B
+3.217618299,4.931656324,Soybean,Urea,196.9242546,2523.56145,Diammonium Phosphate,,
+8.371920859,7.565574058,Cotton,Potassium Chloride,78.09112049,2984.170904,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+8.194742911,7.889616091,Soybean,Urea,132.9966179,1031.066569,Urea,,
+7.252268238,2.430173509,Maize,Potassium Chloride,245.4081395,2968.368041,Urea,Urea,Brand B
+3.449306235,6.492026345,Cotton,Potassium Chloride,159.2628805,4945.949606,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
+6.312076002,2.21818674,Wheat,Potassium Chloride,206.9363537,2113.070643,Urea,,
+4.248765072,7.762375774,Wheat,Diammonium Phosphate,211.8644852,2581.673081,Urea,,
+1.82423866,6.912596406,Maize,Diammonium Phosphate,260.938761,3748.759986,Urea,Urea,Brand B
+9.255822179,9.60953159,Soybean,Potassium Chloride,131.2306986,4259.17467,Urea,,
+2.231367678,1.620622147,Rice,Urea,221.8238906,2669.566496,Diammonium Phosphate,Ammonium Sulfate,Brand C
+9.552136184,1.51349249,Maize,Potassium Chloride,290.4039518,2238.675482,Urea,Urea,Brand B
+5.014051957,3.539683672,Cotton,Potassium Chloride,232.5608336,4751.3032,Potassium Chloride,Nitrogen-Phosphorus-Potassium (NPK),Brand A
